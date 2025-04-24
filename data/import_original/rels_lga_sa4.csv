@@ -1,0 +1,583 @@
+:START_ID(LGA),:END_ID(SA4),:TYPE
+Wagga Wagga,Riverina,PART_OF
+Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,PART_OF
+Northern Midlands,Launceston and North East,PART_OF
+Armidale,New England and North West,PART_OF
+Lockyer Valley,Toowoomba,PART_OF
+Wakefield,Barossa - Yorke - Mid North,PART_OF
+Southern Downs,Darling Downs - Maranoa,PART_OF
+Brighton,Hobart,PART_OF
+West Tamar,Launceston and North East,PART_OF
+Mid Murray,South Australia - South East,PART_OF
+Blue Mountains,Sydney - Outer West and Blue Mountains,PART_OF
+Upper Lachlan,Capital Region,PART_OF
+Wattle Range,South Australia - South East,PART_OF
+Cairns,Cairns,PART_OF
+Wollongong,Illawarra,PART_OF
+Penrith,Sydney - Outer West and Blue Mountains,PART_OF
+Upper Hunter,Hunter Valley exc Newcastle,PART_OF
+South Burnett,Wide Bay,PART_OF
+Mid-Western,Central West,PART_OF
+Canterbury-Bankstown,Sydney - Inner South West,PART_OF
+Greater Hume,Murray,PART_OF
+Barossa,Barossa - Yorke - Mid North,PART_OF
+Port Macquarie-Hastings,Mid North Coast,PART_OF
+Mackay,Mackay - Isaac - Whitsunday,PART_OF
+Douglas,Cairns,PART_OF
+Yankalilla,South Australia - South East,PART_OF
+Logan,Logan - Beaudesert,PART_OF
+Dorset,Launceston and North East,PART_OF
+Nambucca Valley,Mid North Coast,PART_OF
+Narromine,Far West and Orana,PART_OF
+Fraser Coast,Wide Bay,PART_OF
+Unincorporated SA,South Australia - Outback,PART_OF
+Shellharbour,Illawarra,PART_OF
+Narrabri,New England and North West,PART_OF
+Cook,Queensland - Outback,PART_OF
+Tenterfield,New England and North West,PART_OF
+Central Coast (NSW),Central Coast,PART_OF
+Tamworth,New England and North West,PART_OF
+Hilltops,Capital Region,PART_OF
+Forbes,Central West,PART_OF
+Toowoomba,Toowoomba,PART_OF
+Lake Macquarie,Newcastle and Lake Macquarie,PART_OF
+Livingstone,Central Queensland,PART_OF
+Blacktown,Sydney - Blacktown,PART_OF
+Balranald,Murray,PART_OF
+Lockhart River,Queensland - Outback,PART_OF
+Light,Barossa - Yorke - Mid North,PART_OF
+Cassowary Coast,Cairns,PART_OF
+Tumby Bay,South Australia - Outback,PART_OF
+Liverpool,Sydney - South West,PART_OF
+Cumberland,Sydney - Parramatta,PART_OF
+Muswellbrook,Hunter Valley exc Newcastle,PART_OF
+Moreton Bay,Moreton Bay - North,PART_OF
+Ballina,Richmond - Tweed,PART_OF
+Kyogle,Richmond - Tweed,PART_OF
+Bundaberg,Wide Bay,PART_OF
+Melbourne,Melbourne - Inner,PART_OF
+Brisbane,Brisbane - South,PART_OF
+Snowy Valleys,Riverina,PART_OF
+Whitsunday,Mackay - Isaac - Whitsunday,PART_OF
+Fairfield,Sydney - South West,PART_OF
+Yass Valley,Capital Region,PART_OF
+Central Highlands (Qld),Central Queensland,PART_OF
+The Hills,Sydney - Baulkham Hills and Hawkesbury,PART_OF
+Salisbury,Adelaide - North,PART_OF
+Port Stephens,Hunter Valley exc Newcastle,PART_OF
+Macedon Ranges,Melbourne - North West,PART_OF
+Moyne,Warrnambool and South West,PART_OF
+Cardinia,Melbourne - South East,PART_OF
+East Gippsland,Latrobe - Gippsland,PART_OF
+Hornsby,Sydney - Baulkham Hills and Hawkesbury,PART_OF
+Whittlesea,Melbourne - North East,PART_OF
+Mareeba,Queensland - Outback,PART_OF
+Mid-Coast,Mid North Coast,PART_OF
+Rockhampton,Central Queensland,PART_OF
+Ipswich,Ipswich,PART_OF
+Glenelg,Warrnambool and South West,PART_OF
+Western Downs,Darling Downs - Maranoa,PART_OF
+Port Adelaide Enfield,Adelaide - West,PART_OF
+Cabonne,Central West,PART_OF
+Gold Coast,Gold Coast,PART_OF
+Unincorporated ACT,Australian Capital Territory,PART_OF
+Frankston,Mornington Peninsula,PART_OF
+Moree Plains,New England and North West,PART_OF
+Parramatta,Sydney - Parramatta,PART_OF
+Meander Valley,Launceston and North East,PART_OF
+Queanbeyan-Palerang,Capital Region,PART_OF
+Snowy Monaro,Capital Region,PART_OF
+Federation,Murray,PART_OF
+Brisbane,Brisbane Inner City,PART_OF
+Cowra,Central West,PART_OF
+Goulburn Mulwaree,Capital Region,PART_OF
+Moreton Bay,Moreton Bay - South,PART_OF
+Gympie,Wide Bay,PART_OF
+Willoughby,Sydney - North Sydney and Hornsby,PART_OF
+Shoalhaven,Capital Region,PART_OF
+Greater Bendigo,Bendigo,PART_OF
+Nillumbik,Melbourne - North East,PART_OF
+Tatiara,South Australia - South East,PART_OF
+Tweed,Richmond - Tweed,PART_OF
+Ararat,North West,PART_OF
+Colac Otway,Warrnambool and South West,PART_OF
+McKinlay,Queensland - Outback,PART_OF
+Singleton,Hunter Valley exc Newcastle,PART_OF
+Gladstone,Central Queensland,PART_OF
+Lithgow,Central West,PART_OF
+Campbelltown (NSW),Sydney - Outer South West,PART_OF
+Sunshine Coast,Sunshine Coast,PART_OF
+Warrumbungle,Far West and Orana,PART_OF
+Noosa,Sunshine Coast,PART_OF
+Port Stephens,Newcastle and Lake Macquarie,PART_OF
+Gawler,Adelaide - North,PART_OF
+Alpine,Hume,PART_OF
+Brisbane,Ipswich,PART_OF
+Baw Baw,Latrobe - Gippsland,PART_OF
+Isaac,Mackay - Isaac - Whitsunday,PART_OF
+Maranoa,Darling Downs - Maranoa,PART_OF
+Southern Grampians,Warrnambool and South West,PART_OF
+Cessnock,Hunter Valley exc Newcastle,PART_OF
+Scenic Rim,Logan - Beaudesert,PART_OF
+Somerset,Ipswich,PART_OF
+Hinchinbrook,Townsville,PART_OF
+Playford,Adelaide - North,PART_OF
+Cobar,Far West and Orana,PART_OF
+Adelaide Hills,Adelaide - Central and Hills,PART_OF
+Bega Valley,Capital Region,PART_OF
+Tea Tree Gully,Adelaide - North,PART_OF
+Kiama,Illawarra,PART_OF
+Wollondilly,Sydney - Outer South West,PART_OF
+Scenic Rim,Ipswich,PART_OF
+Casey,Melbourne - South East,PART_OF
+Northern Areas,Barossa - Yorke - Mid North,PART_OF
+Tablelands,Cairns,PART_OF
+Sydney,Sydney - City and Inner South,PART_OF
+Murrindindi,Hume,PART_OF
+Albury,Murray,PART_OF
+Boroondara,Melbourne - Inner East,PART_OF
+Redland,Brisbane - East,PART_OF
+South Gippsland,Latrobe - Gippsland,PART_OF
+Yarra Ranges,Melbourne - Outer East,PART_OF
+Surf Coast,Geelong,PART_OF
+Mount Barker,Adelaide - Central and Hills,PART_OF
+Brisbane,Brisbane - East,PART_OF
+Maitland,Hunter Valley exc Newcastle,PART_OF
+Hobart,Hobart,PART_OF
+Mitcham,Adelaide - South,PART_OF
+Clarence Valley,Coffs Harbour - Grafton,PART_OF
+Adelaide,Adelaide - Central and Hills,PART_OF
+Lismore,Richmond - Tweed,PART_OF
+Greater Shepparton,Shepparton,PART_OF
+Merri-bek,Melbourne - North West,PART_OF
+Narrandera,Riverina,PART_OF
+Huon Valley,South East,PART_OF
+Griffith,Riverina,PART_OF
+Wodonga,Hume,PART_OF
+Mid-Coast,Hunter Valley exc Newcastle,PART_OF
+Darebin,Melbourne - Inner,PART_OF
+Ballarat,Ballarat,PART_OF
+Wingecarribee,Southern Highlands and Shoalhaven,PART_OF
+Maroondah,Melbourne - Outer East,PART_OF
+North Burnett,Wide Bay,PART_OF
+Mornington Peninsula,Mornington Peninsula,PART_OF
+Unley,Adelaide - Central and Hills,PART_OF
+Alexandrina,South Australia - South East,PART_OF
+Melton,Melbourne - West,PART_OF
+Burdekin,Townsville,PART_OF
+Knox,Melbourne - Outer East,PART_OF
+Monash,Melbourne - South East,PART_OF
+Unincorporated NSW,Far West and Orana,PART_OF
+Barcaldine,Queensland - Outback,PART_OF
+Wyndham,Melbourne - West,PART_OF
+Glen Innes Severn,New England and North West,PART_OF
+Northern Beaches,Sydney - Northern Beaches,PART_OF
+Townsville,Townsville,PART_OF
+Golden Plains,Ballarat,PART_OF
+Clarence,Hobart,PART_OF
+Georges River,Sydney - Inner South West,PART_OF
+Kingston (Vic.),Melbourne - South East,PART_OF
+Manningham,Melbourne - Inner East,PART_OF
+Bathurst,Central West,PART_OF
+Wudinna,South Australia - Outback,PART_OF
+Inverell,New England and North West,PART_OF
+Brimbank,Melbourne - West,PART_OF
+Darebin,Melbourne - North East,PART_OF
+Charles Sturt,Adelaide - West,PART_OF
+Flinders (Tas.),Launceston and North East,PART_OF
+Burnie,West and North West,PART_OF
+Dubbo,Far West and Orana,PART_OF
+Greater Geelong,Geelong,PART_OF
+Mitchell,Hume,PART_OF
+Onkaparinga,Adelaide - South,PART_OF
+Stonnington,Melbourne - Inner South,PART_OF
+Launceston,Launceston and North East,PART_OF
+Indigo,Hume,PART_OF
+Yarra,Melbourne - Inner,PART_OF
+Port Phillip,Melbourne - Inner,PART_OF
+Waratah-Wynyard,West and North West,PART_OF
+Campaspe,Shepparton,PART_OF
+Barkly,Northern Territory - Outback,PART_OF
+Blacktown,Sydney - Parramatta,PART_OF
+Blayney,Central West,PART_OF
+Campbelltown (SA),Adelaide - Central and Hills,PART_OF
+Latrobe (Vic.),Latrobe - Gippsland,PART_OF
+Palmerston,Darwin,PART_OF
+Gunnedah,New England and North West,PART_OF
+Break O'Day,Launceston and North East,PART_OF
+Buloke,North West,PART_OF
+West Wimmera,North West,PART_OF
+Ku-ring-gai,Sydney - North Sydney and Hornsby,PART_OF
+Shoalhaven,Southern Highlands and Shoalhaven,PART_OF
+Warrnambool,Warrnambool and South West,PART_OF
+Berrigan,Murray,PART_OF
+Warren,Far West and Orana,PART_OF
+Moira,Shepparton,PART_OF
+Brisbane,Brisbane - North,PART_OF
+Berri Barmera,South Australia - South East,PART_OF
+Moonee Valley,Melbourne - Inner,PART_OF
+Litchfield,Darwin,PART_OF
+Greater Dandenong,Melbourne - South East,PART_OF
+Golden Plains,Geelong,PART_OF
+Toowoomba,Darling Downs - Maranoa,PART_OF
+Moonee Valley,Melbourne - North West,PART_OF
+Inner West,Sydney - Inner West,PART_OF
+Whyalla,South Australia - Outback,PART_OF
+Mount Isa,Queensland - Outback,PART_OF
+Kingston (Vic.),Melbourne - Inner South,PART_OF
+Maribyrnong,Melbourne - West,PART_OF
+Marion,Adelaide - South,PART_OF
+Mildura,North West,PART_OF
+Hornsby,Sydney - North Sydney and Hornsby,PART_OF
+Mansfield,Hume,PART_OF
+Charters Towers,Townsville,PART_OF
+Richmond Valley,Richmond - Tweed,PART_OF
+Sutherland,Sydney - Sutherland,PART_OF
+Hume,Melbourne - North West,PART_OF
+Newcastle,Newcastle and Lake Macquarie,PART_OF
+Glen Eira,Melbourne - Inner South,PART_OF
+Yarriambiack,North West,PART_OF
+Pyrenees,Ballarat,PART_OF
+Strathfield,Sydney - Inner South West,PART_OF
+Bayside (NSW),Sydney - Inner South West,PART_OF
+Coffs Harbour,Coffs Harbour - Grafton,PART_OF
+Murray Bridge,South Australia - South East,PART_OF
+Murray River,Murray,PART_OF
+Camden,Sydney - Outer South West,PART_OF
+Glenorchy,Hobart,PART_OF
+Randwick,Sydney - Eastern Suburbs,PART_OF
+Strathfield,Sydney - Inner West,PART_OF
+Hunters Hill,Sydney - Ryde,PART_OF
+Wangaratta,Hume,PART_OF
+Parkes,Central West,PART_OF
+Byron,Richmond - Tweed,PART_OF
+Cabonne,Far West and Orana,PART_OF
+Moorabool,Ballarat,PART_OF
+Benalla,Hume,PART_OF
+Bellingen,Coffs Harbour - Grafton,PART_OF
+Wellington,Latrobe - Gippsland,PART_OF
+Edward River,Murray,PART_OF
+Coorong,South Australia - South East,PART_OF
+George Town,Launceston and North East,PART_OF
+Ryde,Sydney - Ryde,PART_OF
+Bass Coast,Latrobe - Gippsland,PART_OF
+Richmond,Queensland - Outback,PART_OF
+Strathbogie,Hume,PART_OF
+Hay,Murray,PART_OF
+Weddin,Central West,PART_OF
+Moorabool,Melbourne - West,PART_OF
+Lachlan,Central West,PART_OF
+Waverley,Sydney - Eastern Suburbs,PART_OF
+Northern Grampians,North West,PART_OF
+Mareeba,Cairns,PART_OF
+Horsham,North West,PART_OF
+Adelaide Plains,Adelaide - North,PART_OF
+Stonnington,Melbourne - Inner,PART_OF
+Mount Remarkable,Barossa - Yorke - Mid North,PART_OF
+Gilgandra,Far West and Orana,PART_OF
+Adelaide Plains,Barossa - Yorke - Mid North,PART_OF
+Goondiwindi,Darling Downs - Maranoa,PART_OF
+Mitchell,Melbourne - North East,PART_OF
+Clare and Gilbert Valleys,Barossa - Yorke - Mid North,PART_OF
+Brisbane,Brisbane - West,PART_OF
+West Torrens,Adelaide - West,PART_OF
+Whitehorse,Melbourne - Outer East,PART_OF
+Cloncurry,Queensland - Outback,PART_OF
+Penrith,Sydney - South West,PART_OF
+Sorell,Hobart,PART_OF
+Towong,Hume,PART_OF
+Grant,South Australia - South East,PART_OF
+Hepburn,Ballarat,PART_OF
+Lockyer Valley,Ipswich,PART_OF
+Circular Head,West and North West,PART_OF
+Swan Hill,North West,PART_OF
+Murrumbidgee,Riverina,PART_OF
+Orange,Central West,PART_OF
+Walkerville,Adelaide - Central and Hills,PART_OF
+Bayside (NSW),Sydney - City and Inner South,PART_OF
+Sutherland,Illawarra,PART_OF
+Whitehorse,Melbourne - Inner East,PART_OF
+Wentworth,Murray,PART_OF
+Tasman,South East,PART_OF
+Latrobe (Tas.),West and North West,PART_OF
+Port Augusta,South Australia - Outback,PART_OF
+Liverpool Plains,New England and North West,PART_OF
+Banana,Central Queensland,PART_OF
+Inner West,Sydney - City and Inner South,PART_OF
+Eurobodalla,Capital Region,PART_OF
+Barunga West,Barossa - Yorke - Mid North,PART_OF
+West Coast,West and North West,PART_OF
+Etheridge,Queensland - Outback,PART_OF
+Bland,Central West,PART_OF
+Oberon,Central West,PART_OF
+Corangamite,Warrnambool and South West,PART_OF
+Yorke Peninsula,Barossa - Yorke - Mid North,PART_OF
+Derwent Valley,Hobart,PART_OF
+Hornsby,Sydney - Ryde,PART_OF
+Port Pirie,Barossa - Yorke - Mid North,PART_OF
+Devonport,West and North West,PART_OF
+Flinders (Qld),Queensland - Outback,PART_OF
+Burwood,Sydney - Inner West,PART_OF
+Alice Springs,Northern Territory - Outback,PART_OF
+Somerset,Moreton Bay - North,PART_OF
+Victoria Daly,Northern Territory - Outback,PART_OF
+Gwydir,New England and North West,PART_OF
+Port Adelaide Enfield,Adelaide - North,PART_OF
+Macedon Ranges,Bendigo,PART_OF
+Banyule,Melbourne - North East,PART_OF
+Coonamble,Far West and Orana,PART_OF
+Kempsey,Mid North Coast,PART_OF
+Carrathool,Riverina,PART_OF
+Barcoo,Queensland - Outback,PART_OF
+Hobsons Bay,Melbourne - West,PART_OF
+Temora,Riverina,PART_OF
+Karoonda East Murray,South Australia - South East,PART_OF
+Unincorporated Vic,Latrobe - Gippsland,PART_OF
+Gannawarra,North West,PART_OF
+Ceduna,South Australia - Outback,PART_OF
+Parramatta,Sydney - Ryde,PART_OF
+Darwin,Darwin,PART_OF
+Central Desert,Northern Territory - Outback,PART_OF
+Sutherland,Sydney - Outer South West,PART_OF
+Murweh,Queensland - Outback,PART_OF
+Renmark Paringa,South Australia - South East,PART_OF
+Loxton Waikerie,South Australia - South East,PART_OF
+Central Coast (Tas.),West and North West,PART_OF
+Norwood Payneham and St Peters,Adelaide - Central and Hills,PART_OF
+MacDonnell,Northern Territory - Outback,PART_OF
+Leeton,Riverina,PART_OF
+Scenic Rim,Gold Coast,PART_OF
+Kingborough,South East,PART_OF
+Merri-bek,Melbourne - Inner,PART_OF
+Copper Coast,Barossa - Yorke - Mid North,PART_OF
+Lockhart,Riverina,PART_OF
+Naracoorte Lucindale,South Australia - South East,PART_OF
+Southern Mallee,South Australia - South East,PART_OF
+Kentish,West and North West,PART_OF
+Goyder,Barossa - Yorke - Mid North,PART_OF
+Brimbank,Melbourne - North West,PART_OF
+Flinders Ranges,South Australia - Outback,PART_OF
+Loddon,Bendigo,PART_OF
+Junee,Riverina,PART_OF
+Victor Harbor,South Australia - South East,PART_OF
+Burnside,Adelaide - Central and Hills,PART_OF
+Coomalie ,Northern Territory - Outback,PART_OF
+Manningham,Melbourne - Outer East,PART_OF
+Mosman,Sydney - North Sydney and Hornsby,PART_OF
+Glamorgan-Spring Bay,South East,PART_OF
+Hawkesbury,Sydney - Outer West and Blue Mountains,PART_OF
+Southern Midlands,South East,PART_OF
+Mount Alexander,Bendigo,PART_OF
+North Sydney,Sydney - North Sydney and Hornsby,PART_OF
+Roper Gulf,Northern Territory - Outback,PART_OF
+Woollahra,Sydney - Eastern Suburbs,PART_OF
+Prospect,Adelaide - Central and Hills,PART_OF
+Northern Peninsula Area,Queensland - Outback,PART_OF
+Wingecarribee,Sydney - Outer South West,PART_OF
+Unincorporated NT,Darwin,PART_OF
+Orroroo Carrieton,Barossa - Yorke - Mid North,PART_OF
+Central Goldfields,Ballarat,PART_OF
+Unincorporated NT,Northern Territory - Outback,PART_OF
+Central Darling,Far West and Orana,PART_OF
+Balonne,Darling Downs - Maranoa,PART_OF
+Kingborough,Hobart,PART_OF
+Walgett,Far West and Orana,PART_OF
+Coolamon,Riverina,PART_OF
+Bulloo,Queensland - Outback,PART_OF
+Lane Cove,Sydney - North Sydney and Hornsby,PART_OF
+Walcha,New England and North West,PART_OF
+Bogan,Far West and Orana,PART_OF
+Wollondilly,Illawarra,PART_OF
+Cleve,South Australia - Outback,PART_OF
+West Arnhem,Northern Territory - Outback,PART_OF
+Canterbury-Bankstown,Sydney - Parramatta,PART_OF
+King Island,West and North West,PART_OF
+Kangaroo Island,South Australia - South East,PART_OF
+Uralla,New England and North West,PART_OF
+Holdfast Bay,Adelaide - South,PART_OF
+Murrindindi,Melbourne - North East,PART_OF
+Brewarrina,Far West and Orana,PART_OF
+Wollondilly,Sydney - Outer West and Blue Mountains,PART_OF
+East Arnhem,Northern Territory - Outback,PART_OF
+Port Lincoln,South Australia - Outback,PART_OF
+Carpentaria,Queensland - Outback,PART_OF
+Light,Adelaide - North,PART_OF
+Camden,Sydney - South West,PART_OF
+Longreach,Queensland - Outback,PART_OF
+Maitland,Newcastle and Lake Macquarie,PART_OF
+Lower Eyre Peninsula,South Australia - Outback,PART_OF
+York,Western Australia - Wheat Belt,PART_OF
+Rockingham,Perth - South West,PART_OF
+Plantagenet,Western Australia - Wheat Belt,PART_OF
+Kwinana,Perth - South West,PART_OF
+Murray,Mandurah,PART_OF
+Dumbleyung,Western Australia - Wheat Belt,PART_OF
+Port Hedland,Western Australia - Outback (North),PART_OF
+Stirling,Perth - North West,PART_OF
+Robe,South Australia - South East,PART_OF
+Cambridge,Perth - Inner,PART_OF
+Wanneroo,Perth - North West,PART_OF
+Gosnells,Perth - South East,PART_OF
+Dandaragan,Western Australia - Wheat Belt,PART_OF
+The Hills,Sydney - Ryde,PART_OF
+Serpentine-Jarrahdale,Perth - South East,PART_OF
+Mandurah,Mandurah,PART_OF
+Woodanilling,Western Australia - Wheat Belt,PART_OF
+Warrumbungle,Central West,PART_OF
+Dowerin,Western Australia - Wheat Belt,PART_OF
+Kalgoorlie-Boulder,Western Australia - Outback (South),PART_OF
+Greater Geraldton,Western Australia - Outback (South),PART_OF
+Harvey,Bunbury,PART_OF
+Bayswater,Perth - North East,PART_OF
+Swan,Perth - North East,PART_OF
+Doomadgee,Queensland - Outback,PART_OF
+Croydon,Queensland - Outback,PART_OF
+Albany,Western Australia - Wheat Belt,PART_OF
+Central Highlands (Tas.),South East,PART_OF
+Chittering,Western Australia - Wheat Belt,PART_OF
+Canning,Perth - South East,PART_OF
+Perenjori,Western Australia - Outback (South),PART_OF
+Mount Magnet,Western Australia - Outback (South),PART_OF
+Donnybrook-Balingup,Bunbury,PART_OF
+Hope Vale,Queensland - Outback,PART_OF
+Augusta Margaret River,Bunbury,PART_OF
+Vincent,Perth - Inner,PART_OF
+Wickepin,Western Australia - Wheat Belt,PART_OF
+Melton,Melbourne - North West,PART_OF
+Cockburn,Perth - South West,PART_OF
+Victoria Park,Perth - South East,PART_OF
+Armadale,Perth - South East,PART_OF
+Bunbury,Bunbury,PART_OF
+Gingin,Western Australia - Wheat Belt,PART_OF
+Moora,Western Australia - Wheat Belt,PART_OF
+Perth,Perth - Inner,PART_OF
+Busselton,Bunbury,PART_OF
+Williams,Western Australia - Wheat Belt,PART_OF
+Derwent Valley,South East,PART_OF
+Quilpie,Queensland - Outback,PART_OF
+Kojonup,Western Australia - Wheat Belt,PART_OF
+Mount Marshall,Western Australia - Wheat Belt,PART_OF
+Kingston (SA),South Australia - South East,PART_OF
+Karratha,Western Australia - Outback (North),PART_OF
+Elliston,South Australia - Outback,PART_OF
+Coolgardie,Western Australia - Outback (South),PART_OF
+Monash,Melbourne - Inner South,PART_OF
+Derby-West Kimberley,Western Australia - Outback (North),PART_OF
+Mundaring,Perth - North East,PART_OF
+Belmont,Perth - South East,PART_OF
+Nungarin,Western Australia - Wheat Belt,PART_OF
+Bayside (Vic.),Melbourne - Inner South,PART_OF
+Northam,Western Australia - Wheat Belt,PART_OF
+Melville,Perth - South West,PART_OF
+Bassendean,Perth - North East,PART_OF
+Yilgarn,Western Australia - Wheat Belt,PART_OF
+Broome,Western Australia - Outback (North),PART_OF
+Chapman Valley,Western Australia - Outback (South),PART_OF
+Broomehill-Tambellup,Western Australia - Wheat Belt,PART_OF
+Meekatharra,Western Australia - Outback (South),PART_OF
+Esperance,Western Australia - Outback (South),PART_OF
+Sunshine Coast,Moreton Bay - North,PART_OF
+Capel,Bunbury,PART_OF
+Dundas,Western Australia - Outback (South),PART_OF
+Federation,Riverina,PART_OF
+Lake Grace,Western Australia - Wheat Belt,PART_OF
+Dardanup,Bunbury,PART_OF
+Kondinin,Western Australia - Wheat Belt,PART_OF
+Kent,Western Australia - Wheat Belt,PART_OF
+Canada Bay,Sydney - Inner West,PART_OF
+Wagin,Western Australia - Wheat Belt,PART_OF
+Manjimup,Bunbury,PART_OF
+Fairfield,Sydney - Parramatta,PART_OF
+Denmark,Western Australia - Wheat Belt,PART_OF
+Boddington,Western Australia - Wheat Belt,PART_OF
+Bruce Rock,Western Australia - Wheat Belt,PART_OF
+Kulin,Western Australia - Wheat Belt,PART_OF
+Cuballing,Western Australia - Wheat Belt,PART_OF
+Dungog,Hunter Valley exc Newcastle,PART_OF
+Carnarvon,Western Australia - Outback (South),PART_OF
+Hindmarsh,North West,PART_OF
+Wyndham-East Kimberley,Western Australia - Outback (North),PART_OF
+Beverley,Western Australia - Wheat Belt,PART_OF
+Ravensthorpe,Western Australia - Outback (South),PART_OF
+Joondalup,Perth - North West,PART_OF
+Coober Pedy,South Australia - Outback,PART_OF
+Katherine,Northern Territory - Outback,PART_OF
+Dalwallinu,Western Australia - Wheat Belt,PART_OF
+Gnowangerup,Western Australia - Wheat Belt,PART_OF
+Loddon,Ballarat,PART_OF
+Wongan-Ballidu,Western Australia - Wheat Belt,PART_OF
+Collie,Bunbury,PART_OF
+Cootamundra-Gundagai,Riverina,PART_OF
+East Pilbara,Western Australia - Outback (North),PART_OF
+Menzies,Western Australia - Outback (South),PART_OF
+Halls Creek,Western Australia - Outback (North),PART_OF
+Irwin,Western Australia - Outback (South),PART_OF
+Yarrabah,Cairns,PART_OF
+Pingelly,Western Australia - Wheat Belt,PART_OF
+Cue,Western Australia - Outback (South),PART_OF
+Kalamunda,Perth - South East,PART_OF
+Quairading,Western Australia - Wheat Belt,PART_OF
+Randwick,Sydney - City and Inner South,PART_OF
+Mornington,Queensland - Outback,PART_OF
+Wandering,Western Australia - Wheat Belt,PART_OF
+Nannup,Bunbury,PART_OF
+Broken Hill,Far West and Orana,PART_OF
+Ngaanyatjarraku,Western Australia - Outback (South),PART_OF
+Corrigin,Western Australia - Wheat Belt,PART_OF
+Anangu Pitjantjatjara Yankunytjatjara,South Australia - Outback,PART_OF
+Fremantle,Perth - South West,PART_OF
+Toodyay,Western Australia - Wheat Belt,PART_OF
+Streaky Bay,South Australia - Outback,PART_OF
+Victoria Plains,Western Australia - Wheat Belt,PART_OF
+Northampton,Western Australia - Outback (South),PART_OF
+Bridgetown-Greenbushes,Bunbury,PART_OF
+Kimba,South Australia - Outback,PART_OF
+Katanning,Western Australia - Wheat Belt,PART_OF
+Jerramungup,Western Australia - Wheat Belt,PART_OF
+Carnamah,Western Australia - Outback (South),PART_OF
+Ashburton,Western Australia - Outback (North),PART_OF
+West Arthur,Western Australia - Wheat Belt,PART_OF
+Mount Gambier,South Australia - South East,PART_OF
+South Perth,Perth - South East,PART_OF
+Brookton,Western Australia - Wheat Belt,PART_OF
+Burke,Queensland - Outback,PART_OF
+Nedlands,Perth - Inner,PART_OF
+Stirling,Perth - Inner,PART_OF
+Franklin Harbour,South Australia - Outback,PART_OF
+Waroona,Bunbury,PART_OF
+Cunderdin,Western Australia - Wheat Belt,PART_OF
+Cranbrook,Western Australia - Wheat Belt,PART_OF
+Murrumbidgee,Murray,PART_OF
+Sydney,Sydney - Eastern Suburbs,PART_OF
+Kellerberrin,Western Australia - Wheat Belt,PART_OF
+Kalamunda,Perth - North East,PART_OF
+Ararat,Ballarat,PART_OF
+Wagait,Northern Territory - Outback,PART_OF
+Weipa,Queensland - Outback,PART_OF
+Barossa,Adelaide - North,PART_OF
+Pormpuraaw,Queensland - Outback,PART_OF
+Bourke,Far West and Orana,PART_OF
+Richmond Valley,Coffs Harbour - Grafton,PART_OF
+Unincorporated Vic,Hume,PART_OF
+Greater Shepparton,Hume,PART_OF
+Palm Island,Townsville,PART_OF
+West Daly,Northern Territory - Outback,PART_OF
+Mosman Park,Perth - Inner,PART_OF
+Narrogin,Western Australia - Wheat Belt,PART_OF
+Merredin,Western Australia - Wheat Belt,PART_OF
+Westonia,Western Australia - Wheat Belt,PART_OF
+Morawa,Western Australia - Outback (South),PART_OF
+Claremont,Perth - Inner,PART_OF
+Mingenew,Western Australia - Outback (South),PART_OF
+Murray,Western Australia - Wheat Belt,PART_OF
+The Hills,Sydney - Parramatta,PART_OF
+Goomalling,Western Australia - Wheat Belt,PART_OF
+Subiaco,Perth - Inner,PART_OF
+Trayning,Western Australia - Wheat Belt,PART_OF
+Shark Bay,Western Australia - Outback (South),PART_OF
+Exmouth,Western Australia - Outback (South),PART_OF
+Sandstone,Western Australia - Outback (South),PART_OF
+Surf Coast,Warrnambool and South West,PART_OF
+Boyup Brook,Bunbury,PART_OF
+Cottesloe ,Perth - Inner,PART_OF
+Leonora,Western Australia - Outback (South),PART_OF

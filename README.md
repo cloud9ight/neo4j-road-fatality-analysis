@@ -36,8 +36,8 @@ The primary goal of this project is to design, implement, and query a graph data
 │   │   └── rels_sa4_state.csv
 │   └── import_filtered/         # CSVs for filtered dataset (if used)
 ├── scripts/                     # Contains ETL and Neo4j scripts
-│   ├── etl.py                   # Python script for ETL process
-│   └── load_and_query.cypher   # Cypher script for loading data and running queries
+│   ├── ETL_Process.ipynb        # Python script for ETL process
+│   └── load_and_query.cypher    # Cypher script for loading data and running queries
 ├── report/                      # Contains the final project report
 │   └── Report.pdf
 └── README.md                    # This file
