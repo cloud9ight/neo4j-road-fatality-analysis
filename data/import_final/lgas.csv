@@ -88,10 +88,8 @@ Meander Valley,LGA
 Queanbeyan-Palerang,LGA
 Snowy Monaro,LGA
 Federation,LGA
-Brisbane,LGA
 Cowra,LGA
 Goulburn Mulwaree,LGA
-Moreton Bay,LGA
 Gympie,LGA
 Willoughby,LGA
 Shoalhaven,LGA
@@ -109,10 +107,8 @@ Campbelltown (NSW),LGA
 Sunshine Coast,LGA
 Warrumbungle,LGA
 Noosa,LGA
-Port Stephens,LGA
 Gawler,LGA
 Alpine,LGA
-Brisbane,LGA
 Baw Baw,LGA
 Isaac,LGA
 Maranoa,LGA
@@ -128,7 +124,6 @@ Bega Valley,LGA
 Tea Tree Gully,LGA
 Kiama,LGA
 Wollondilly,LGA
-Scenic Rim,LGA
 Casey,LGA
 Northern Areas,LGA
 Tablelands,LGA
@@ -141,7 +136,6 @@ South Gippsland,LGA
 Yarra Ranges,LGA
 Surf Coast,LGA
 Mount Barker,LGA
-Brisbane,LGA
 Maitland,LGA
 Hobart,LGA
 Mitcham,LGA
@@ -154,7 +148,6 @@ Narrandera,LGA
 Huon Valley,LGA
 Griffith,LGA
 Wodonga,LGA
-Mid-Coast,LGA
 Darebin,LGA
 Ballarat,LGA
 Wingecarribee,LGA
@@ -182,7 +175,6 @@ Bathurst,LGA
 Wudinna,LGA
 Inverell,LGA
 Brimbank,LGA
-Darebin,LGA
 Charles Sturt,LGA
 Flinders (Tas.),LGA
 Burnie,LGA
@@ -198,7 +190,6 @@ Port Phillip,LGA
 Waratah-Wynyard,LGA
 Campaspe,LGA
 Barkly,LGA
-Blacktown,LGA
 Blayney,LGA
 Campbelltown (SA),LGA
 Latrobe (Vic.),LGA
@@ -208,27 +199,20 @@ Break O'Day,LGA
 Buloke,LGA
 West Wimmera,LGA
 Ku-ring-gai,LGA
-Shoalhaven,LGA
 Warrnambool,LGA
 Berrigan,LGA
 Warren,LGA
 Moira,LGA
-Brisbane,LGA
 Berri Barmera,LGA
 Moonee Valley,LGA
 Litchfield,LGA
 Greater Dandenong,LGA
-Golden Plains,LGA
-Toowoomba,LGA
-Moonee Valley,LGA
 Inner West,LGA
 Whyalla,LGA
 Mount Isa,LGA
-Kingston (Vic.),LGA
 Maribyrnong,LGA
 Marion,LGA
 Mildura,LGA
-Hornsby,LGA
 Mansfield,LGA
 Charters Towers,LGA
 Richmond Valley,LGA
@@ -246,12 +230,10 @@ Murray River,LGA
 Camden,LGA
 Glenorchy,LGA
 Randwick,LGA
-Strathfield,LGA
 Hunters Hill,LGA
 Wangaratta,LGA
 Parkes,LGA
 Byron,LGA
-Cabonne,LGA
 Moorabool,LGA
 Benalla,LGA
 Bellingen,LGA
@@ -265,45 +247,33 @@ Richmond,LGA
 Strathbogie,LGA
 Hay,LGA
 Weddin,LGA
-Moorabool,LGA
 Lachlan,LGA
 Waverley,LGA
 Northern Grampians,LGA
-Mareeba,LGA
 Horsham,LGA
 Adelaide Plains,LGA
-Stonnington,LGA
 Mount Remarkable,LGA
 Gilgandra,LGA
-Adelaide Plains,LGA
 Goondiwindi,LGA
-Mitchell,LGA
 Clare and Gilbert Valleys,LGA
-Brisbane,LGA
 West Torrens,LGA
 Whitehorse,LGA
 Cloncurry,LGA
-Penrith,LGA
 Sorell,LGA
 Towong,LGA
 Grant,LGA
 Hepburn,LGA
-Lockyer Valley,LGA
 Circular Head,LGA
 Swan Hill,LGA
 Murrumbidgee,LGA
 Orange,LGA
 Walkerville,LGA
-Bayside (NSW),LGA
-Sutherland,LGA
-Whitehorse,LGA
 Wentworth,LGA
 Tasman,LGA
 Latrobe (Tas.),LGA
 Port Augusta,LGA
 Liverpool Plains,LGA
 Banana,LGA
-Inner West,LGA
 Eurobodalla,LGA
 Barunga West,LGA
 West Coast,LGA
@@ -313,17 +283,13 @@ Oberon,LGA
 Corangamite,LGA
 Yorke Peninsula,LGA
 Derwent Valley,LGA
-Hornsby,LGA
 Port Pirie,LGA
 Devonport,LGA
 Flinders (Qld),LGA
 Burwood,LGA
 Alice Springs,LGA
-Somerset,LGA
 Victoria Daly,LGA
 Gwydir,LGA
-Port Adelaide Enfield,LGA
-Macedon Ranges,LGA
 Banyule,LGA
 Coonamble,LGA
 Kempsey,LGA
@@ -335,10 +301,8 @@ Karoonda East Murray,LGA
 Unincorporated Vic,LGA
 Gannawarra,LGA
 Ceduna,LGA
-Parramatta,LGA
 Darwin,LGA
 Central Desert,LGA
-Sutherland,LGA
 Murweh,LGA
 Renmark Paringa,LGA
 Loxton Waikerie,LGA
@@ -346,26 +310,21 @@ Central Coast (Tas.),LGA
 Norwood Payneham and St Peters,LGA
 MacDonnell,LGA
 Leeton,LGA
-Scenic Rim,LGA
 Kingborough,LGA
-Merri-bek,LGA
 Copper Coast,LGA
 Lockhart,LGA
 Naracoorte Lucindale,LGA
 Southern Mallee,LGA
 Kentish,LGA
 Goyder,LGA
-Brimbank,LGA
 Flinders Ranges,LGA
 Loddon,LGA
 Junee,LGA
 Victor Harbor,LGA
 Burnside,LGA
 Coomalie ,LGA
-Manningham,LGA
 Mosman,LGA
 Glamorgan-Spring Bay,LGA
-Hawkesbury,LGA
 Southern Midlands,LGA
 Mount Alexander,LGA
 North Sydney,LGA
@@ -373,38 +332,28 @@ Roper Gulf,LGA
 Woollahra,LGA
 Prospect,LGA
 Northern Peninsula Area,LGA
-Wingecarribee,LGA
 Unincorporated NT,LGA
 Orroroo Carrieton,LGA
 Central Goldfields,LGA
-Unincorporated NT,LGA
 Central Darling,LGA
 Balonne,LGA
-Kingborough,LGA
 Walgett,LGA
 Coolamon,LGA
 Bulloo,LGA
 Lane Cove,LGA
 Walcha,LGA
 Bogan,LGA
-Wollondilly,LGA
 Cleve,LGA
 West Arnhem,LGA
-Canterbury-Bankstown,LGA
 King Island,LGA
 Kangaroo Island,LGA
 Uralla,LGA
 Holdfast Bay,LGA
-Murrindindi,LGA
 Brewarrina,LGA
-Wollondilly,LGA
 East Arnhem,LGA
 Port Lincoln,LGA
 Carpentaria,LGA
-Light,LGA
-Camden,LGA
 Longreach,LGA
-Maitland,LGA
 Lower Eyre Peninsula,LGA
 York,LGA
 Rockingham,LGA
@@ -419,11 +368,9 @@ Cambridge,LGA
 Wanneroo,LGA
 Gosnells,LGA
 Dandaragan,LGA
-The Hills,LGA
 Serpentine-Jarrahdale,LGA
 Mandurah,LGA
 Woodanilling,LGA
-Warrumbungle,LGA
 Dowerin,LGA
 Kalgoorlie-Boulder,LGA
 Greater Geraldton,LGA
@@ -443,7 +390,6 @@ Hope Vale,LGA
 Augusta Margaret River,LGA
 Vincent,LGA
 Wickepin,LGA
-Melton,LGA
 Cockburn,LGA
 Victoria Park,LGA
 Armadale,LGA
@@ -453,7 +399,6 @@ Moora,LGA
 Perth,LGA
 Busselton,LGA
 Williams,LGA
-Derwent Valley,LGA
 Quilpie,LGA
 Kojonup,LGA
 Mount Marshall,LGA
@@ -461,7 +406,6 @@ Kingston (SA),LGA
 Karratha,LGA
 Elliston,LGA
 Coolgardie,LGA
-Monash,LGA
 Derby-West Kimberley,LGA
 Mundaring,LGA
 Belmont,LGA
@@ -476,10 +420,8 @@ Chapman Valley,LGA
 Broomehill-Tambellup,LGA
 Meekatharra,LGA
 Esperance,LGA
-Sunshine Coast,LGA
 Capel,LGA
 Dundas,LGA
-Federation,LGA
 Lake Grace,LGA
 Dardanup,LGA
 Kondinin,LGA
@@ -487,7 +429,6 @@ Kent,LGA
 Canada Bay,LGA
 Wagin,LGA
 Manjimup,LGA
-Fairfield,LGA
 Denmark,LGA
 Boddington,LGA
 Bruce Rock,LGA
@@ -504,7 +445,6 @@ Coober Pedy,LGA
 Katherine,LGA
 Dalwallinu,LGA
 Gnowangerup,LGA
-Loddon,LGA
 Wongan-Ballidu,LGA
 Collie,LGA
 Cootamundra-Gundagai,LGA
@@ -517,7 +457,6 @@ Pingelly,LGA
 Cue,LGA
 Kalamunda,LGA
 Quairading,LGA
-Randwick,LGA
 Mornington,LGA
 Wandering,LGA
 Nannup,LGA
@@ -542,24 +481,15 @@ South Perth,LGA
 Brookton,LGA
 Burke,LGA
 Nedlands,LGA
-Stirling,LGA
 Franklin Harbour,LGA
 Waroona,LGA
 Cunderdin,LGA
 Cranbrook,LGA
-Murrumbidgee,LGA
-Sydney,LGA
 Kellerberrin,LGA
-Kalamunda,LGA
-Ararat,LGA
 Wagait,LGA
 Weipa,LGA
-Barossa,LGA
 Pormpuraaw,LGA
 Bourke,LGA
-Richmond Valley,LGA
-Unincorporated Vic,LGA
-Greater Shepparton,LGA
 Palm Island,LGA
 West Daly,LGA
 Mosman Park,LGA
@@ -569,15 +499,12 @@ Westonia,LGA
 Morawa,LGA
 Claremont,LGA
 Mingenew,LGA
-Murray,LGA
-The Hills,LGA
 Goomalling,LGA
 Subiaco,LGA
 Trayning,LGA
 Shark Bay,LGA
 Exmouth,LGA
 Sandstone,LGA
-Surf Coast,LGA
 Boyup Brook,LGA
 Cottesloe ,LGA
 Leonora,LGA
