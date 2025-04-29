@@ -1,70 +1,73 @@
-// Streamlined Load Script (Constraints & Nodes Only)
+// Load Script: Create Constraints and Load Data
 // =======================================================================
-// Run each block sequentially in Neo4j Browser.
-// database is clean or constraints don't conflict. all CSV files are in the Neo4j 'import' directory.
+// CSV files are in Neo4j 'import' directory.
+// Run each block in Neo4j Browser.
 // =======================================================================
 
-// === BLOCK 1: Create Constraints ===
+// --- 1. Create Constraints ---
 CREATE CONSTRAINT unique_person_id IF NOT EXISTS FOR (p:Person) REQUIRE p.personID IS UNIQUE;
 CREATE CONSTRAINT unique_crash_id IF NOT EXISTS FOR (c:Crash) REQUIRE c.internalCrashID IS UNIQUE;
 CREATE CONSTRAINT unique_lga_name IF NOT EXISTS FOR (l:LGA) REQUIRE l.name IS UNIQUE;
 CREATE CONSTRAINT unique_sa4_name IF NOT EXISTS FOR (s4:SA4) REQUIRE s4.name IS UNIQUE;
 CREATE CONSTRAINT unique_state_name IF NOT EXISTS FOR (st:State) REQUIRE st.name IS UNIQUE;
 
-// === BLOCK 2a: Load States ===
+// --- 2. Load Nodes ---
+
+// 1a. Load States
 LOAD CSV WITH HEADERS FROM 'file:///states.csv' AS row FIELDTERMINATOR ','
 MERGE (st:State {name: row.`name:ID(State)`});
 
-// === BLOCK 2b: Load SA4s ===
+// 2b. Load SA4 Regions
 LOAD CSV WITH HEADERS FROM 'file:///sa4s.csv' AS row FIELDTERMINATOR ','
 MERGE (s4:SA4 {name: row.`name:ID(SA4)`});
 
-// === BLOCK 2c: Load LGAs ===
+// 2c: Load LGAs 
 LOAD CSV WITH HEADERS FROM 'file:///lgas.csv' AS row FIELDTERMINATOR ','
 MERGE (l:LGA {name: row.`name:ID(LGA)`});
 
-// === BLOCK 2d: Load Persons ===
+// 2d: Load Persons 
 LOAD CSV WITH HEADERS FROM 'file:///persons.csv' AS row FIELDTERMINATOR ','
 MERGE (p:Person {personID: toInteger(row.`personID:ID(Person)`)})
 ON CREATE SET p.roadUser = row.roadUser, p.gender = row.gender, p.age = toInteger(row.age), p.ageGroup = row.ageGroup
 ON MATCH SET p.roadUser = row.roadUser, p.gender = row.gender, p.age = toInteger(row.age), p.ageGroup = row.ageGroup;
 
-// === BLOCK 2e: Load Crashes ===
+// 2e: Load Crashes 
 LOAD CSV WITH HEADERS FROM 'file:///crashes.csv' AS row FIELDTERMINATOR ','
 MERGE (c:Crash {internalCrashID: toInteger(row.`internalCrashID:ID(Crash)`)})
 ON CREATE SET c.crashID_orig = row.crashID_orig, c.year = toInteger(row.year), c.month = toInteger(row.month), c.dayweek = row.dayweek, c.time = row.time, c.crashType = row.crashType, c.numberFatalities = toInteger(row.numberFatalities), c.busInvolvement = row.busInvolvement, c.heavyRigidTruckInvolvement = row.heavyRigidTruckInvolvement, c.articulatedTruckInvolvement = row.articulatedTruckInvolvement, c.speedLimit = CASE WHEN row.speedLimit IS NULL OR row.speedLimit = '' THEN null ELSE toInteger(row.speedLimit) END, c.nationalRoadType = row.nationalRoadType, c.christmasPeriod = row.christmasPeriod, c.easterPeriod = row.easterPeriod, c.nationalRemotenessAreas = row.nationalRemotenessAreas, c.dayOfWeekType = row.dayOfWeekType, c.timeOfDay = row.timeOfDay
 ON MATCH SET c.crashID_orig = row.crashID_orig, c.year = toInteger(row.year), c.month = toInteger(row.month), c.dayweek = row.dayweek, c.time = row.time, c.crashType = row.crashType, c.numberFatalities = toInteger(row.numberFatalities), c.busInvolvement = row.busInvolvement, c.heavyRigidTruckInvolvement = row.heavyRigidTruckInvolvement, c.articulatedTruckInvolvement = row.articulatedTruckInvolvement, c.speedLimit = CASE WHEN row.speedLimit IS NULL OR row.speedLimit = '' THEN null ELSE toInteger(row.speedLimit) END, c.nationalRoadType = row.nationalRoadType, c.christmasPeriod = row.christmasPeriod, c.easterPeriod = row.easterPeriod, c.nationalRemotenessAreas = row.nationalRemotenessAreas, c.dayOfWeekType = row.dayOfWeekType, c.timeOfDay = row.timeOfDay;
 
-// === BLOCK 3: Load Relationships (Run one by one) ===
-// === BLOCK 3a: Load SA4 -> State relationships ===
-// USING PERIODIC COMMIT 1000 
+// --- 3. Load Relationships ---
+
+// 3a: SA4 -> State 
+
 LOAD CSV WITH HEADERS FROM 'file:///rels_sa4_state.csv' AS row FIELDTERMINATOR ','
 MATCH (s4:SA4 {name: row.`:START_ID(SA4)`})
 MATCH (st:State {name: row.`:END_ID(State)`})
 MERGE (s4)-[r:IN_STATE]->(st);
 
-// === BLOCK 3b: Load LGA -> SA4 relationships ===
+// 3b: LGA -> SA4 
 
 LOAD CSV WITH HEADERS FROM 'file:///rels_lga_sa4.csv' AS row FIELDTERMINATOR ','
 MATCH (l:LGA {name: row.`:START_ID(LGA)`})
 MATCH (s4:SA4 {name: row.`:END_ID(SA4)`})
 MERGE (l)-[r:PART_OF]->(s4);
 
-// === BLOCK 3c: Load Crash -> LGA relationships ===
+// 3c: Crash -> LGA 
 
 LOAD CSV WITH HEADERS FROM 'file:///rels_crash_lga.csv' AS row FIELDTERMINATOR ','
 MATCH (c:Crash {internalCrashID: toInteger(row.`:START_ID(Crash)`)})
 MATCH (l:LGA {name: row.`:END_ID(LGA)`})
 MERGE (c)-[r:OCCURRED_IN]->(l);
 
-// === BLOCK 3d: Load Person -> Crash relationships ===
+// 3d: Person -> Crash 
 
 LOAD CSV WITH HEADERS FROM 'file:///rels_person_crash.csv' AS row FIELDTERMINATOR ','
 MATCH (p:Person {personID: toInteger(row.`:START_ID(Person)`)})
 MATCH (c:Crash {internalCrashID: toInteger(row.`:END_ID(Crash)`)})
 MERGE (p)-[r:WAS_INVOLVED_IN]->(c);
 
-// === BLOCK 4: Create Additional Indexes (Run last) ===
+// --- Create Indexes (for better performance) ---
 CREATE INDEX idx_crash_year IF NOT EXISTS FOR (c:Crash) ON (c.year);
 CREATE INDEX idx_crash_trucks IF NOT EXISTS FOR (c:Crash) ON (c.articulatedTruckInvolvement, c.busInvolvement, c.heavyRigidTruckInvolvement);
 CREATE INDEX idx_crash_timeofday IF NOT EXISTS FOR (c:Crash) ON (c.timeOfDay);
@@ -77,7 +80,3 @@ CREATE INDEX idx_person_agegroup IF NOT EXISTS FOR (p:Person) ON (p.ageGroup);
 CREATE INDEX idx_person_roaduser IF NOT EXISTS FOR (p:Person) ON (p.roadUser);
 CREATE INDEX idx_person_gender IF NOT EXISTS FOR (p:Person) ON (p.gender);
 
-
-// =======================================================================
-// End of Load Script
-// =======================================================================
