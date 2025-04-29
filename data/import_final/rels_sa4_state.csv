@@ -1,0 +1,89 @@
+:START_ID(SA4),:END_ID(State),:TYPE
+Riverina,NSW,IN_STATE
+Sydney - Baulkham Hills and Hawkesbury,NSW,IN_STATE
+Launceston and North East,TAS,IN_STATE
+New England and North West,NSW,IN_STATE
+Toowoomba,QLD,IN_STATE
+Barossa - Yorke - Mid North,SA,IN_STATE
+Darling Downs - Maranoa,QLD,IN_STATE
+Hobart,TAS,IN_STATE
+South Australia - South East,SA,IN_STATE
+Sydney - Outer West and Blue Mountains,NSW,IN_STATE
+Capital Region,NSW,IN_STATE
+Cairns,QLD,IN_STATE
+Illawarra,NSW,IN_STATE
+Hunter Valley exc Newcastle,NSW,IN_STATE
+Wide Bay,QLD,IN_STATE
+Central West,NSW,IN_STATE
+Sydney - Inner South West,NSW,IN_STATE
+Murray,NSW,IN_STATE
+Mid North Coast,NSW,IN_STATE
+Mackay - Isaac - Whitsunday,QLD,IN_STATE
+Logan - Beaudesert,QLD,IN_STATE
+Far West and Orana,NSW,IN_STATE
+South Australia - Outback,SA,IN_STATE
+Queensland - Outback,QLD,IN_STATE
+Central Coast,NSW,IN_STATE
+Newcastle and Lake Macquarie,NSW,IN_STATE
+Central Queensland,QLD,IN_STATE
+Sydney - Blacktown,NSW,IN_STATE
+Sydney - South West,NSW,IN_STATE
+Sydney - Parramatta,NSW,IN_STATE
+Moreton Bay - North,QLD,IN_STATE
+Richmond - Tweed,NSW,IN_STATE
+Melbourne - Inner,VIC,IN_STATE
+Brisbane - South,QLD,IN_STATE
+Adelaide - North,SA,IN_STATE
+Melbourne - North West,VIC,IN_STATE
+Warrnambool and South West,VIC,IN_STATE
+Melbourne - South East,VIC,IN_STATE
+Latrobe - Gippsland,VIC,IN_STATE
+Melbourne - North East,VIC,IN_STATE
+Ipswich,QLD,IN_STATE
+Adelaide - West,SA,IN_STATE
+Gold Coast,QLD,IN_STATE
+Australian Capital Territory,ACT,IN_STATE
+Mornington Peninsula,VIC,IN_STATE
+Brisbane Inner City,QLD,IN_STATE
+Moreton Bay - South,QLD,IN_STATE
+Sydney - North Sydney and Hornsby,NSW,IN_STATE
+Bendigo,VIC,IN_STATE
+North West,VIC,IN_STATE
+Sydney - Outer South West,NSW,IN_STATE
+Sunshine Coast,QLD,IN_STATE
+Hume,VIC,IN_STATE
+Townsville,QLD,IN_STATE
+Adelaide - Central and Hills,SA,IN_STATE
+Sydney - City and Inner South,NSW,IN_STATE
+Melbourne - Inner East,VIC,IN_STATE
+Brisbane - East,QLD,IN_STATE
+Melbourne - Outer East,VIC,IN_STATE
+Geelong,VIC,IN_STATE
+Adelaide - South,SA,IN_STATE
+Coffs Harbour - Grafton,NSW,IN_STATE
+Shepparton,VIC,IN_STATE
+South East,TAS,IN_STATE
+Ballarat,VIC,IN_STATE
+Southern Highlands and Shoalhaven,NSW,IN_STATE
+Melbourne - West,VIC,IN_STATE
+Sydney - Northern Beaches,NSW,IN_STATE
+West and North West,TAS,IN_STATE
+Melbourne - Inner South,VIC,IN_STATE
+Northern Territory - Outback,NT,IN_STATE
+Darwin,NT,IN_STATE
+Brisbane - North,QLD,IN_STATE
+Sydney - Inner West,NSW,IN_STATE
+Sydney - Sutherland,NSW,IN_STATE
+Sydney - Eastern Suburbs,NSW,IN_STATE
+Sydney - Ryde,NSW,IN_STATE
+Brisbane - West,QLD,IN_STATE
+Western Australia - Wheat Belt,WA,IN_STATE
+Perth - South West,WA,IN_STATE
+Mandurah,WA,IN_STATE
+Western Australia - Outback (North),WA,IN_STATE
+Perth - North West,WA,IN_STATE
+Perth - Inner,WA,IN_STATE
+Perth - South East,WA,IN_STATE
+Western Australia - Outback (South),WA,IN_STATE
+Bunbury,WA,IN_STATE
+Perth - North East,WA,IN_STATE
