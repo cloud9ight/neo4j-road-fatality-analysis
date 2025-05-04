@@ -1,7 +1,8 @@
-// part1: Load Script: Create Constraints and Load Data
+// part1: Data Load / Schema Creation
 // =======================================================================
-// CSV files are in Neo4j 'import' directory
+// CSV files are copied to Neo4j 'import' directory
 // Run each block in Neo4j Browser
+// Cypher Queries in part 2
 // =======================================================================
 
 // --- block 1. Create Constraints ---
@@ -11,7 +12,7 @@ CREATE CONSTRAINT unique_lga_name IF NOT EXISTS FOR (l:LGA) REQUIRE l.name IS UN
 CREATE CONSTRAINT unique_sa4_name IF NOT EXISTS FOR (s4:SA4) REQUIRE s4.name IS UNIQUE;
 CREATE CONSTRAINT unique_state_name IF NOT EXISTS FOR (st:State) REQUIRE st.name IS UNIQUE;
 
-// --- 2. Load Nodes ---
+// --- block 2. Load Nodes ---
 
 // 1a. Load States
 LOAD CSV WITH HEADERS FROM 'file:///states.csv' AS row FIELDTERMINATOR ','
