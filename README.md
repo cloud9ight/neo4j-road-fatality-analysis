@@ -32,12 +32,13 @@ The primary goal of this project is to design, implement, and query a graph data
 │   │   ├── states.csv
 │   │   ├── rels_person_crash.csv
 │   │   ├── rels_crash_lga.csv
-│   │   ├── rels_lga_sa4.csv
+│   │   ├── rels_crash_sa4.csv
 │   │   └── rels_sa4_state.csv
 │   └── import_filtered/         # CSVs for filtered dataset (if used)
 ├── scripts/                     # Contains ETL and Neo4j scripts
 │   ├── ETL_Process.ipynb        # Python script for ETL process
-│   └── load_and_query.cypher    # Cypher script for loading data and running queries
+│   ├── neo4j_db_load.txt        # Cypher script for loading data
+│   └── cypher_query.txt         # Cypher script for running queries
 ├── report/                      # Contains the final project report
 │   └── Report.pdf
 └── README.md                    # This file
