@@ -56,7 +56,7 @@ MERGE (c)-[r:OCCURRED_IN_LGA]->(l);
 
 // 3c: Crash -> SA4
 
-LOAD CSV WITH HEADERS FROM 'file:///rels_crash_sa4.csv' AS row FIELDTERMINATOR ',' // New CSV file
+LOAD CSV WITH HEADERS FROM 'file:///rels_crash_sa4.csv' AS row FIELDTERMINATOR ',' 
 MATCH (c:Crash {internalCrashID: toInteger(row.`:START_ID(Crash)`)})
 MATCH (s4:SA4 {name: row.`:END_ID(SA4)`})
 MERGE (c)-[r:OCCURRED_IN_SA4]->(s4);

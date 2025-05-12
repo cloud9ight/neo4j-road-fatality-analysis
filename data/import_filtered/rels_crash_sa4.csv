@@ -1,0 +1,308 @@
+:START_ID(Crash),:END_ID(SA4),:TYPE
+0,Riverina,OCCURRED_IN_SA4
+1,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+2,New England and North West,OCCURRED_IN_SA4
+3,Sydney - Outer West and Blue Mountains,OCCURRED_IN_SA4
+4,Capital Region,OCCURRED_IN_SA4
+5,Illawarra,OCCURRED_IN_SA4
+6,Sydney - Outer West and Blue Mountains,OCCURRED_IN_SA4
+7,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+8,Central West,OCCURRED_IN_SA4
+9,Sydney - Inner South West,OCCURRED_IN_SA4
+10,Murray,OCCURRED_IN_SA4
+11,Mid North Coast,OCCURRED_IN_SA4
+12,New England and North West,OCCURRED_IN_SA4
+13,Mid North Coast,OCCURRED_IN_SA4
+14,Far West and Orana,OCCURRED_IN_SA4
+15,Illawarra,OCCURRED_IN_SA4
+16,Illawarra,OCCURRED_IN_SA4
+17,New England and North West,OCCURRED_IN_SA4
+18,Mid North Coast,OCCURRED_IN_SA4
+19,New England and North West,OCCURRED_IN_SA4
+20,Central Coast,OCCURRED_IN_SA4
+21,New England and North West,OCCURRED_IN_SA4
+22,Capital Region,OCCURRED_IN_SA4
+23,Central West,OCCURRED_IN_SA4
+24,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+25,Sydney - Blacktown,OCCURRED_IN_SA4
+26,Murray,OCCURRED_IN_SA4
+27,Sydney - South West,OCCURRED_IN_SA4
+28,Sydney - Parramatta,OCCURRED_IN_SA4
+29,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+30,Richmond - Tweed,OCCURRED_IN_SA4
+31,Richmond - Tweed,OCCURRED_IN_SA4
+32,New England and North West,OCCURRED_IN_SA4
+33,Riverina,OCCURRED_IN_SA4
+34,New England and North West,OCCURRED_IN_SA4
+35,Sydney - South West,OCCURRED_IN_SA4
+36,Capital Region,OCCURRED_IN_SA4
+37,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+38,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+39,Richmond - Tweed,OCCURRED_IN_SA4
+40,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+41,Central Coast,OCCURRED_IN_SA4
+42,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+43,Mid North Coast,OCCURRED_IN_SA4
+44,Mid North Coast,OCCURRED_IN_SA4
+45,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+46,Central West,OCCURRED_IN_SA4
+47,New England and North West,OCCURRED_IN_SA4
+48,Sydney - Parramatta,OCCURRED_IN_SA4
+49,Capital Region,OCCURRED_IN_SA4
+50,Capital Region,OCCURRED_IN_SA4
+51,Illawarra,OCCURRED_IN_SA4
+52,Murray,OCCURRED_IN_SA4
+53,Sydney - Blacktown,OCCURRED_IN_SA4
+54,Central West,OCCURRED_IN_SA4
+55,Capital Region,OCCURRED_IN_SA4
+56,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+57,Sydney - North Sydney and Hornsby,OCCURRED_IN_SA4
+58,Capital Region,OCCURRED_IN_SA4
+59,Capital Region,OCCURRED_IN_SA4
+60,Illawarra,OCCURRED_IN_SA4
+61,Richmond - Tweed,OCCURRED_IN_SA4
+62,Mid North Coast,OCCURRED_IN_SA4
+63,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+64,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+65,Riverina,OCCURRED_IN_SA4
+66,Central West,OCCURRED_IN_SA4
+67,New England and North West,OCCURRED_IN_SA4
+68,Sydney - Outer South West,OCCURRED_IN_SA4
+69,Far West and Orana,OCCURRED_IN_SA4
+70,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+71,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+72,Mid North Coast,OCCURRED_IN_SA4
+73,Central Coast,OCCURRED_IN_SA4
+74,Central West,OCCURRED_IN_SA4
+75,Sydney - Blacktown,OCCURRED_IN_SA4
+76,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+77,Sydney - Outer West and Blue Mountains,OCCURRED_IN_SA4
+78,Illawarra,OCCURRED_IN_SA4
+79,Far West and Orana,OCCURRED_IN_SA4
+80,Sydney - Outer South West,OCCURRED_IN_SA4
+81,Capital Region,OCCURRED_IN_SA4
+82,Illawarra,OCCURRED_IN_SA4
+83,Sydney - Outer South West,OCCURRED_IN_SA4
+84,Mid North Coast,OCCURRED_IN_SA4
+85,Sydney - City and Inner South,OCCURRED_IN_SA4
+86,Illawarra,OCCURRED_IN_SA4
+87,Murray,OCCURRED_IN_SA4
+88,Sydney - Outer West and Blue Mountains,OCCURRED_IN_SA4
+89,Capital Region,OCCURRED_IN_SA4
+90,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+91,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+92,Murray,OCCURRED_IN_SA4
+93,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+94,Sydney - Outer West and Blue Mountains,OCCURRED_IN_SA4
+95,Central Coast,OCCURRED_IN_SA4
+96,Illawarra,OCCURRED_IN_SA4
+97,Central Coast,OCCURRED_IN_SA4
+98,Richmond - Tweed,OCCURRED_IN_SA4
+99,Far West and Orana,OCCURRED_IN_SA4
+100,Riverina,OCCURRED_IN_SA4
+101,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+102,Riverina,OCCURRED_IN_SA4
+103,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+104,Southern Highlands and Shoalhaven,OCCURRED_IN_SA4
+105,Murray,OCCURRED_IN_SA4
+106,Richmond - Tweed,OCCURRED_IN_SA4
+107,New England and North West,OCCURRED_IN_SA4
+108,Sydney - South West,OCCURRED_IN_SA4
+109,Mid North Coast,OCCURRED_IN_SA4
+110,Far West and Orana,OCCURRED_IN_SA4
+111,Sydney - Blacktown,OCCURRED_IN_SA4
+112,Sydney - Parramatta,OCCURRED_IN_SA4
+113,New England and North West,OCCURRED_IN_SA4
+114,Richmond - Tweed,OCCURRED_IN_SA4
+115,Richmond - Tweed,OCCURRED_IN_SA4
+116,Sydney - Northern Beaches,OCCURRED_IN_SA4
+117,Sydney - Inner South West,OCCURRED_IN_SA4
+118,Central West,OCCURRED_IN_SA4
+119,Illawarra,OCCURRED_IN_SA4
+120,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+121,Murray,OCCURRED_IN_SA4
+122,Central West,OCCURRED_IN_SA4
+123,New England and North West,OCCURRED_IN_SA4
+124,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+125,Sydney - Outer West and Blue Mountains,OCCURRED_IN_SA4
+126,Mid North Coast,OCCURRED_IN_SA4
+127,New England and North West,OCCURRED_IN_SA4
+128,New England and North West,OCCURRED_IN_SA4
+129,Far West and Orana,OCCURRED_IN_SA4
+130,Sydney - Inner South West,OCCURRED_IN_SA4
+131,Illawarra,OCCURRED_IN_SA4
+132,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+133,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+134,Sydney - Parramatta,OCCURRED_IN_SA4
+135,New England and North West,OCCURRED_IN_SA4
+136,Central West,OCCURRED_IN_SA4
+137,Central West,OCCURRED_IN_SA4
+138,Central West,OCCURRED_IN_SA4
+139,New England and North West,OCCURRED_IN_SA4
+140,New England and North West,OCCURRED_IN_SA4
+141,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+142,Sydney - North Sydney and Hornsby,OCCURRED_IN_SA4
+143,Capital Region,OCCURRED_IN_SA4
+144,Southern Highlands and Shoalhaven,OCCURRED_IN_SA4
+145,Capital Region,OCCURRED_IN_SA4
+146,Murray,OCCURRED_IN_SA4
+147,Far West and Orana,OCCURRED_IN_SA4
+148,Central West,OCCURRED_IN_SA4
+149,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+150,Riverina,OCCURRED_IN_SA4
+151,Mid North Coast,OCCURRED_IN_SA4
+152,New England and North West,OCCURRED_IN_SA4
+153,New England and North West,OCCURRED_IN_SA4
+154,Southern Highlands and Shoalhaven,OCCURRED_IN_SA4
+155,Central Coast,OCCURRED_IN_SA4
+156,New England and North West,OCCURRED_IN_SA4
+157,Capital Region,OCCURRED_IN_SA4
+158,Capital Region,OCCURRED_IN_SA4
+159,Sydney - Northern Beaches,OCCURRED_IN_SA4
+160,Sydney - Inner West,OCCURRED_IN_SA4
+161,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+162,Central Coast,OCCURRED_IN_SA4
+163,Far West and Orana,OCCURRED_IN_SA4
+164,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+165,Southern Highlands and Shoalhaven,OCCURRED_IN_SA4
+166,Far West and Orana,OCCURRED_IN_SA4
+167,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+168,Sydney - Inner South West,OCCURRED_IN_SA4
+169,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+170,Richmond - Tweed,OCCURRED_IN_SA4
+171,Sydney - Blacktown,OCCURRED_IN_SA4
+172,Sydney - Blacktown,OCCURRED_IN_SA4
+173,Far West and Orana,OCCURRED_IN_SA4
+174,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+175,Sydney - Northern Beaches,OCCURRED_IN_SA4
+176,Sydney - North Sydney and Hornsby,OCCURRED_IN_SA4
+177,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+178,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+179,Sydney - Parramatta,OCCURRED_IN_SA4
+180,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+181,Sydney - South West,OCCURRED_IN_SA4
+182,Richmond - Tweed,OCCURRED_IN_SA4
+183,Sydney - Parramatta,OCCURRED_IN_SA4
+184,Sydney - Sutherland,OCCURRED_IN_SA4
+185,Central West,OCCURRED_IN_SA4
+186,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+187,Central West,OCCURRED_IN_SA4
+188,Sydney - Inner South West,OCCURRED_IN_SA4
+189,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+190,Illawarra,OCCURRED_IN_SA4
+191,Murray,OCCURRED_IN_SA4
+192,Sydney - South West,OCCURRED_IN_SA4
+193,Sydney - North Sydney and Hornsby,OCCURRED_IN_SA4
+194,Far West and Orana,OCCURRED_IN_SA4
+195,Illawarra,OCCURRED_IN_SA4
+196,Sydney - Inner South West,OCCURRED_IN_SA4
+197,Sydney - Inner South West,OCCURRED_IN_SA4
+198,Sydney - Inner South West,OCCURRED_IN_SA4
+199,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+200,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+201,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+202,Richmond - Tweed,OCCURRED_IN_SA4
+203,Murray,OCCURRED_IN_SA4
+204,Sydney - Outer West and Blue Mountains,OCCURRED_IN_SA4
+205,Sydney - Outer South West,OCCURRED_IN_SA4
+206,Central West,OCCURRED_IN_SA4
+207,Sydney - Inner South West,OCCURRED_IN_SA4
+208,Sydney - North Sydney and Hornsby,OCCURRED_IN_SA4
+209,Sydney - Eastern Suburbs,OCCURRED_IN_SA4
+210,Sydney - Inner West,OCCURRED_IN_SA4
+211,Central West,OCCURRED_IN_SA4
+212,Richmond - Tweed,OCCURRED_IN_SA4
+213,Sydney - Ryde,OCCURRED_IN_SA4
+214,Central West,OCCURRED_IN_SA4
+215,Capital Region,OCCURRED_IN_SA4
+216,New England and North West,OCCURRED_IN_SA4
+217,Far West and Orana,OCCURRED_IN_SA4
+218,Richmond - Tweed,OCCURRED_IN_SA4
+219,New England and North West,OCCURRED_IN_SA4
+220,Newcastle and Lake Macquarie,OCCURRED_IN_SA4
+221,Far West and Orana,OCCURRED_IN_SA4
+222,Richmond - Tweed,OCCURRED_IN_SA4
+223,Central West,OCCURRED_IN_SA4
+224,Sydney - Eastern Suburbs,OCCURRED_IN_SA4
+225,New England and North West,OCCURRED_IN_SA4
+226,New England and North West,OCCURRED_IN_SA4
+227,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+228,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+229,Sydney - Blacktown,OCCURRED_IN_SA4
+230,Sydney - North Sydney and Hornsby,OCCURRED_IN_SA4
+231,Sydney - North Sydney and Hornsby,OCCURRED_IN_SA4
+232,Murray,OCCURRED_IN_SA4
+233,Central Coast,OCCURRED_IN_SA4
+234,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+235,Sydney - Inner South West,OCCURRED_IN_SA4
+236,Murray,OCCURRED_IN_SA4
+237,Richmond - Tweed,OCCURRED_IN_SA4
+238,Sydney - Ryde,OCCURRED_IN_SA4
+239,Capital Region,OCCURRED_IN_SA4
+240,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+241,Southern Highlands and Shoalhaven,OCCURRED_IN_SA4
+242,Murray,OCCURRED_IN_SA4
+243,Sydney - Outer West and Blue Mountains,OCCURRED_IN_SA4
+244,Central West,OCCURRED_IN_SA4
+245,Capital Region,OCCURRED_IN_SA4
+246,Far West and Orana,OCCURRED_IN_SA4
+247,Central West,OCCURRED_IN_SA4
+248,Sydney - Eastern Suburbs,OCCURRED_IN_SA4
+249,Mid North Coast,OCCURRED_IN_SA4
+250,New England and North West,OCCURRED_IN_SA4
+251,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+252,Mid North Coast,OCCURRED_IN_SA4
+253,Sydney - Eastern Suburbs,OCCURRED_IN_SA4
+254,New England and North West,OCCURRED_IN_SA4
+255,Sydney - Outer South West,OCCURRED_IN_SA4
+256,Central West,OCCURRED_IN_SA4
+257,Far West and Orana,OCCURRED_IN_SA4
+258,Sydney - South West,OCCURRED_IN_SA4
+259,Sydney - South West,OCCURRED_IN_SA4
+260,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+261,Illawarra,OCCURRED_IN_SA4
+262,Illawarra,OCCURRED_IN_SA4
+263,Richmond - Tweed,OCCURRED_IN_SA4
+264,Sydney - Northern Beaches,OCCURRED_IN_SA4
+265,Richmond - Tweed,OCCURRED_IN_SA4
+266,Far West and Orana,OCCURRED_IN_SA4
+267,New England and North West,OCCURRED_IN_SA4
+268,Riverina,OCCURRED_IN_SA4
+269,Capital Region,OCCURRED_IN_SA4
+270,New England and North West,OCCURRED_IN_SA4
+271,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+272,Far West and Orana,OCCURRED_IN_SA4
+273,Capital Region,OCCURRED_IN_SA4
+274,Central Coast,OCCURRED_IN_SA4
+275,New England and North West,OCCURRED_IN_SA4
+276,Sydney - Ryde,OCCURRED_IN_SA4
+277,Capital Region,OCCURRED_IN_SA4
+278,New England and North West,OCCURRED_IN_SA4
+279,Central West,OCCURRED_IN_SA4
+280,Sydney - South West,OCCURRED_IN_SA4
+281,Illawarra,OCCURRED_IN_SA4
+282,Central Coast,OCCURRED_IN_SA4
+283,Sydney - Inner South West,OCCURRED_IN_SA4
+284,Sydney - Parramatta,OCCURRED_IN_SA4
+285,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+286,Sydney - South West,OCCURRED_IN_SA4
+287,Illawarra,OCCURRED_IN_SA4
+288,Central West,OCCURRED_IN_SA4
+289,Murray,OCCURRED_IN_SA4
+290,Sydney - Baulkham Hills and Hawkesbury,OCCURRED_IN_SA4
+291,Mid North Coast,OCCURRED_IN_SA4
+292,Illawarra,OCCURRED_IN_SA4
+293,Sydney - South West,OCCURRED_IN_SA4
+294,Sydney - Ryde,OCCURRED_IN_SA4
+295,Murray,OCCURRED_IN_SA4
+296,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+297,Coffs Harbour - Grafton,OCCURRED_IN_SA4
+298,Sydney - Outer South West,OCCURRED_IN_SA4
+299,Hunter Valley exc Newcastle,OCCURRED_IN_SA4
+300,Central West,OCCURRED_IN_SA4
+301,Capital Region,OCCURRED_IN_SA4
+302,Sydney - City and Inner South,OCCURRED_IN_SA4
+303,Far West and Orana,OCCURRED_IN_SA4
+304,Illawarra,OCCURRED_IN_SA4
+305,Southern Highlands and Shoalhaven,OCCURRED_IN_SA4
+306,Central Coast,OCCURRED_IN_SA4

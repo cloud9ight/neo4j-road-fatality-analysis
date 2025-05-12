@@ -1,0 +1,308 @@
+internalCrashID:ID(Crash),crashID_orig,year,month,dayweek,time,crashType,numberFatalities,busInvolvement,heavyRigidTruckInvolvement,articulatedTruckInvolvement,speedLimit,nationalRoadType,christmasPeriod,easterPeriod,nationalRemotenessAreas,dayOfWeekType,timeOfDay,:LABEL
+0,20241115,2024,12,Friday,4:00,Single,1,no,no,no,100,Arterial Road,yes,no,Inner Regional Australia,Weekday,Night,Crash
+1,20241125,2024,12,Friday,6:15,Single,1,no,no,no,80,Local Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+2,20241002,2024,12,Friday,10:35,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+3,20241087,2024,12,Friday,23:00,Single,1,no,no,no,70,National or State Highway,no,no,Major Cities of Australia,Weekend,Night,Crash
+4,20241054,2024,12,Friday,23:10,Single,1,no,no,yes,110,National or State Highway,no,no,Inner Regional Australia,Weekend,Night,Crash
+5,20241101,2024,12,Monday,10:48,Single,1,no,no,yes,60,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+6,20241216,2024,12,Monday,12:05,Single,1,no,no,no,60,Collector Road,yes,no,Major Cities of Australia,Weekday,Day,Crash
+7,20241300,2024,12,Monday,13:58,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+8,20241278,2024,12,Monday,14:43,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+9,20241149,2024,12,Monday,16:00,Single,1,no,no,no,40,Collector Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+10,20241068,2024,12,Saturday,3:30,Single,1,yes,no,yes,110,National or State Highway,no,no,Outer Regional Australia,Weekend,Night,Crash
+11,20241094,2024,12,Saturday,12:10,Single,1,no,no,no,50,National or State Highway,yes,no,Inner Regional Australia,Weekend,Day,Crash
+12,20241119,2024,12,Saturday,15:25,Multiple,2,no,no,no,100,Local Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+13,20241169,2024,12,Saturday,21:30,Single,1,no,no,no,80,National or State Highway,no,no,Inner Regional Australia,Weekend,Night,Crash
+14,20241291,2024,12,Sunday,2:00,Single,1,no,no,yes,110,National or State Highway,no,no,Outer Regional Australia,Weekend,Night,Crash
+15,20241077,2024,12,Sunday,8:09,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+16,20241028,2024,12,Sunday,8:20,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+17,20241022,2024,12,Sunday,11:20,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekend,Day,Crash
+18,20241098,2024,12,Sunday,12:50,Single,1,no,no,no,90,Sub-arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+19,20241040,2024,12,Sunday,14:15,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekend,Day,Crash
+20,20241174,2024,12,Sunday,14:48,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+21,20241088,2024,12,Sunday,16:00,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekend,Day,Crash
+22,20241255,2024,12,Sunday,18:20,Single,1,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+23,20241053,2024,12,Sunday,22:19,Multiple,2,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+24,20241080,2024,12,Thursday,1:39,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+25,20241274,2024,12,Thursday,15:40,Single,1,no,no,no,100,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+26,20241181,2024,12,Tuesday,8:30,Single,1,no,no,yes,110,National or State Highway,yes,no,Outer Regional Australia,Weekday,Day,Crash
+27,20241194,2024,12,Tuesday,21:10,Single,1,no,yes,yes,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+28,20241139,2024,12,Tuesday,22:55,Single,1,yes,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+29,20241197,2024,12,Tuesday,23:55,Single,1,no,no,yes,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Night,Crash
+30,20241057,2024,12,Wednesday,12:25,Single,1,no,no,no,110,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+31,20241166,2024,12,Wednesday,17:00,Single,1,no,no,no,100,Sub-arterial Road,yes,no,Inner Regional Australia,Weekday,Day,Crash
+32,20241096,2024,11,Friday,4:44,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Night,Crash
+33,20241027,2024,11,Friday,10:50,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+34,20241163,2024,11,Friday,12:42,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+35,20241222,2024,11,Friday,14:30,Single,1,no,no,no,100,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+36,20241218,2024,11,Friday,17:30,Single,1,no,no,no,110,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+37,20241306,2024,11,Friday,22:35,Single,1,no,no,no,60,Collector Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+38,20241196,2024,11,Monday,11:30,Single,1,no,no,no,60,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+39,20241106,2024,11,Monday,15:38,Single,1,no,no,no,60,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+40,20241230,2024,11,Monday,16:30,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+41,20241055,2024,11,Monday,17:57,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+42,20241267,2024,11,Monday,20:00,Single,1,no,no,no,50,Local Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+43,20241236,2024,11,Saturday,10:00,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+44,20241188,2024,11,Saturday,11:10,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekend,Day,Crash
+45,20241256,2024,11,Saturday,17:20,Multiple,2,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+46,20241107,2024,11,Saturday,23:24,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+47,20241173,2024,11,Sunday,3:00,Multiple,2,no,no,yes,110,National or State Highway,no,no,Outer Regional Australia,Weekend,Night,Crash
+48,20241004,2024,11,Sunday,6:00,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+49,20241201,2024,11,Sunday,8:10,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+50,20241029,2024,11,Sunday,10:40,Single,1,no,no,no,80,National or State Highway,no,no,Outer Regional Australia,Weekend,Day,Crash
+51,20241261,2024,11,Sunday,11:04,Single,1,no,no,no,90,National or State Highway,no,no,Major Cities of Australia,Weekend,Day,Crash
+52,20241215,2024,11,Sunday,14:45,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekend,Day,Crash
+53,20241134,2024,11,Thursday,0:01,Single,1,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+54,20241263,2024,11,Thursday,4:00,Single,1,no,no,no,50,Local Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+55,20241302,2024,11,Thursday,4:02,Single,1,no,no,no,110,National or State Highway,no,no,Inner Regional Australia,Weekday,Night,Crash
+56,20241147,2024,11,Thursday,5:45,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+57,20241150,2024,11,Thursday,12:20,Single,1,yes,no,no,50,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+58,20241247,2024,11,Thursday,13:30,Single,1,no,no,yes,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+59,20241234,2024,11,Thursday,17:25,Single,1,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+60,20241235,2024,11,Tuesday,10:45,Single,1,no,no,yes,80,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+61,20241009,2024,11,Tuesday,11:58,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+62,20241072,2024,11,Tuesday,12:00,Single,1,no,no,no,60,Sub-arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+63,20241219,2024,11,Tuesday,12:37,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+64,20241045,2024,11,Tuesday,20:10,Single,1,no,no,no,50,Local Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+65,20241160,2024,11,Wednesday,17:15,Single,1,no,yes,no,50,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+66,20241081,2024,11,Wednesday,18:00,Single,1,no,no,yes,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Night,Crash
+67,20241135,2024,11,Wednesday,21:50,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Night,Crash
+68,20241209,2024,11,Wednesday,22:08,Single,1,no,no,yes,110,National or State Highway,no,no,Major Cities of Australia,Weekday,Night,Crash
+69,20241151,2024,10,Friday,11:22,Single,1,no,no,no,100,Local Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+70,20241286,2024,10,Friday,15:50,Single,1,no,no,no,80,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+71,20241303,2024,10,Friday,16:22,Single,1,no,no,no,100,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+72,20241060,2024,10,Friday,20:00,Multiple,2,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+73,20241037,2024,10,Friday,22:45,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+74,20241257,2024,10,Friday,23:38,Single,1,no,no,no,50,Local Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+75,20241128,2024,10,Monday,0:25,Single,1,no,no,no,100,National or State Highway,no,no,Major Cities of Australia,Weekend,Night,Crash
+76,20241030,2024,10,Saturday,5:06,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+77,20241042,2024,10,Saturday,13:10,Single,1,no,no,no,80,National or State Highway,no,no,Major Cities of Australia,Weekend,Day,Crash
+78,20241175,2024,10,Saturday,20:10,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+79,20241091,2024,10,Sunday,8:30,Single,1,no,no,no,110,National or State Highway,no,no,Very Remote Australia,Weekend,Day,Crash
+80,20241167,2024,10,Sunday,12:10,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+81,20241268,2024,10,Sunday,13:00,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekend,Day,Crash
+82,20241266,2024,10,Sunday,15:35,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+83,20241287,2024,10,Thursday,4:50,Single,1,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+84,20241152,2024,10,Thursday,5:45,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Night,Crash
+85,20241211,2024,10,Thursday,13:30,Multiple,2,yes,no,no,70,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+86,20241204,2024,10,Thursday,15:15,Single,1,no,no,no,80,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+87,20241137,2024,10,Thursday,16:35,Single,1,no,no,no,110,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+88,20241153,2024,10,Tuesday,4:00,Single,1,no,no,no,60,Collector Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+89,20241103,2024,10,Wednesday,13:45,Single,1,no,no,no,80,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+90,20241237,2024,10,Wednesday,18:45,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+91,20241052,2024,10,Wednesday,21:27,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Night,Crash
+92,20241308,2024,10,Wednesday,23:30,Single,1,no,no,no,50,Sub-arterial Road,no,no,Outer Regional Australia,Weekday,Night,Crash
+93,20241195,2024,9,Friday,12:00,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+94,20241102,2024,9,Friday,12:40,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+95,20241063,2024,9,Friday,18:45,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+96,20241132,2024,9,Friday,20:18,Single,1,yes,no,no,60,National or State Highway,no,no,Major Cities of Australia,Weekend,Night,Crash
+97,20241292,2024,9,Friday,20:30,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+98,20241189,2024,9,Friday,21:00,Single,1,no,no,no,100,Local Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+99,20241233,2024,9,Friday,21:22,Multiple,4,no,no,no,110,National or State Highway,no,no,Outer Regional Australia,Weekend,Night,Crash
+100,20241016,2024,9,Monday,13:30,Single,1,no,no,no,100,Local Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+101,20241220,2024,9,Monday,14:15,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+102,20241034,2024,9,Monday,17:30,Single,1,no,no,no,50,Local Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+103,20241269,2024,9,Saturday,9:15,Single,1,no,no,no,50,Arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+104,20241066,2024,9,Saturday,16:22,Single,1,no,no,no,90,Local Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+105,20241246,2024,9,Saturday,19:30,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+106,20241078,2024,9,Saturday,22:08,Single,1,no,no,no,70,Local Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+107,20241013,2024,9,Sunday,1:15,Multiple,2,no,no,no,100,Sub-arterial Road,no,no,Remote Australia,Weekend,Night,Crash
+108,20241138,2024,9,Sunday,10:25,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+109,20241179,2024,9,Thursday,6:50,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+110,20241109,2024,9,Thursday,21:05,Single,1,no,no,no,100,National or State Highway,no,no,Very Remote Australia,Weekday,Night,Crash
+111,20241301,2024,9,Tuesday,12:36,Single,1,no,no,no,80,Local Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+112,20241248,2024,9,Wednesday,6:00,Single,1,no,no,no,60,Collector Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+113,20241020,2024,9,Wednesday,15:20,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+114,20241294,2024,9,Wednesday,16:50,Single,1,no,no,no,60,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+115,20241304,2024,9,Wednesday,17:46,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+116,20241199,2024,9,Wednesday,22:45,Multiple,2,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+117,20241071,2024,8,Friday,17:45,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+118,20241186,2024,8,Friday,17:50,Single,1,no,no,no,70,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+119,20241223,2024,8,Friday,18:54,Single,1,no,no,no,50,National or State Highway,no,no,Major Cities of Australia,Weekend,Night,Crash
+120,20241221,2024,8,Friday,19:30,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+121,20241143,2024,8,Friday,19:55,Single,1,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+122,20241140,2024,8,Monday,8:00,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+123,20241131,2024,8,Monday,9:30,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+124,20241111,2024,8,Monday,15:45,Single,1,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+125,20241017,2024,8,Monday,17:40,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+126,20241254,2024,8,Saturday,3:30,Multiple,2,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+127,20241127,2024,8,Saturday,16:20,Single,1,no,no,no,50,Access road,no,no,Outer Regional Australia,Weekend,Day,Crash
+128,20241210,2024,8,Saturday,17:15,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekend,Day,Crash
+129,20241253,2024,8,Saturday,21:00,Single,1,no,no,no,100,Sub-arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+130,20241285,2024,8,Tuesday,16:45,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+131,20241176,2024,7,Friday,16:00,Single,1,no,no,no,80,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+132,20241086,2024,7,Friday,16:40,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+133,20241224,2024,7,Friday,22:45,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+134,20241265,2024,7,Monday,8:05,Single,1,no,no,no,100,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+135,20241202,2024,7,Monday,8:15,Single,1,no,no,no,50,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+136,20241293,2024,7,Monday,12:08,Single,1,no,no,yes,110,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+137,20241299,2024,7,Monday,13:20,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+138,20241307,2024,7,Monday,19:20,Single,1,no,no,no,100,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+139,20241243,2024,7,Monday,22:00,Multiple,2,no,no,yes,110,National or State Highway,no,no,Outer Regional Australia,Weekday,Night,Crash
+140,20241260,2024,7,Saturday,0:30,Single,1,no,no,no,70,Local Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+141,20241110,2024,7,Saturday,15:00,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+142,20241082,2024,7,Saturday,19:25,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+143,20241159,2024,7,Sunday,0:01,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+144,20241229,2024,7,Sunday,6:30,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+145,20241046,2024,7,Sunday,13:00,Multiple,3,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+146,20241032,2024,7,Sunday,14:30,Multiple,2,no,no,no,80,Local Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+147,20241031,2024,7,Sunday,14:45,Single,1,no,no,no,80,National or State Highway,no,no,Remote Australia,Weekend,Day,Crash
+148,20241203,2024,7,Sunday,18:20,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+149,20241298,2024,7,Thursday,10:00,Single,1,no,no,yes,50,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+150,20241208,2024,7,Thursday,20:30,Single,1,no,no,yes,100,Arterial Road,no,no,Outer Regional Australia,Weekday,Night,Crash
+151,20241036,2024,7,Tuesday,11:45,Single,1,no,no,no,90,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+152,20241003,2024,7,Tuesday,15:30,Single,1,no,no,no,100,Local Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+153,20241277,2024,7,Tuesday,16:35,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+154,20241249,2024,7,Tuesday,17:50,Single,1,no,no,no,50,Local Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+155,20241092,2024,7,Wednesday,1:35,Single,1,no,no,no,60,National or State Highway,no,no,Major Cities of Australia,Weekday,Night,Crash
+156,20241118,2024,7,Wednesday,9:30,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+157,20241190,2024,7,Wednesday,10:45,Single,1,no,no,yes,80,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+158,20241097,2024,7,Wednesday,13:00,Single,1,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+159,20241250,2024,7,Wednesday,14:15,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+160,20241047,2024,6,Friday,17:15,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+161,20241205,2024,6,Friday,17:45,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+162,20241024,2024,6,Friday,18:20,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+163,20241070,2024,6,Monday,9:30,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+164,20241142,2024,6,Monday,15:15,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+165,20241124,2024,6,Monday,15:20,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+166,20241010,2024,6,Monday,17:20,Single,1,no,yes,yes,110,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+167,20241252,2024,6,Monday,19:10,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+168,20241198,2024,6,Sunday,9:13,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+169,20241100,2024,6,Sunday,12:09,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekend,Day,Crash
+170,20241074,2024,6,Sunday,12:15,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+171,20241035,2024,6,Sunday,23:15,Single,1,no,no,no,50,Access road,no,no,Major Cities of Australia,Weekend,Night,Crash
+172,20241161,2024,6,Thursday,8:40,Single,1,no,no,no,60,Collector Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+173,20241062,2024,6,Thursday,17:19,Single,1,no,no,no,80,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+174,20241155,2024,6,Thursday,19:18,Single,1,no,no,no,60,National or State Highway,no,no,Major Cities of Australia,Weekday,Night,Crash
+175,20241039,2024,6,Tuesday,6:00,Single,1,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+176,20241050,2024,6,Tuesday,11:29,Single,1,no,yes,no,80,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+177,20241133,2024,6,Tuesday,15:15,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+178,20241273,2024,6,Wednesday,3:23,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+179,20241180,2024,6,Wednesday,17:20,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+180,20241059,2024,6,Wednesday,17:25,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+181,20241021,2024,6,Wednesday,17:50,Single,1,no,no,no,60,Collector Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+182,20241245,2024,6,Wednesday,23:00,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+183,20241108,2024,5,Friday,15:30,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+184,20241005,2024,5,Friday,18:55,Single,1,no,no,no,60,Arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+185,20241051,2024,5,Friday,20:40,Single,1,no,no,no,100,Sub-arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+186,20241116,2024,5,Friday,22:40,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+187,20241283,2024,5,Sunday,14:00,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekend,Day,Crash
+188,20241168,2024,5,Sunday,19:25,Multiple,2,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+189,20241162,2024,5,Sunday,22:25,Multiple,2,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+190,20241073,2024,5,Sunday,22:38,Single,1,no,no,no,100,National or State Highway,no,no,Major Cities of Australia,Weekend,Night,Crash
+191,20241120,2024,5,Thursday,17:44,Single,1,no,no,yes,110,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+192,20241048,2024,5,Thursday,23:15,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+193,20241200,2024,5,Tuesday,6:29,Single,1,no,no,no,60,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+194,20241259,2024,5,Tuesday,8:30,Single,1,no,no,no,110,National or State Highway,no,no,Remote Australia,Weekday,Day,Crash
+195,20241264,2024,5,Tuesday,10:50,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+196,20241296,2024,5,Tuesday,18:00,Single,1,no,no,no,60,Collector Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+197,20241006,2024,5,Tuesday,19:57,Multiple,2,no,no,no,70,National or State Highway,no,no,Major Cities of Australia,Weekday,Night,Crash
+198,20241258,2024,5,Tuesday,22:48,Single,1,no,no,no,50,Collector Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+199,20241290,2024,5,Wednesday,0:30,Multiple,2,no,no,no,110,National or State Highway,no,no,Inner Regional Australia,Weekday,Night,Crash
+200,20241056,2024,5,Wednesday,0:30,Single,1,no,no,no,110,National or State Highway,no,no,Inner Regional Australia,Weekday,Night,Crash
+201,20241251,2024,5,Wednesday,4:42,Single,1,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+202,20241041,2024,5,Wednesday,18:26,Single,1,no,no,no,110,National or State Highway,no,no,Major Cities of Australia,Weekday,Night,Crash
+203,20241165,2024,5,Wednesday,18:30,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Night,Crash
+204,20241271,2024,4,Friday,3:30,Single,1,no,yes,no,60,Collector Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+205,20241170,2024,4,Friday,13:00,Single,1,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+206,20241177,2024,4,Friday,13:58,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+207,20241011,2024,4,Friday,18:36,Single,1,no,no,no,60,Collector Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+208,20241083,2024,4,Monday,4:25,Multiple,2,no,no,yes,110,National or State Highway,no,no,Major Cities of Australia,Weekend,Night,Crash
+209,20241089,2024,4,Monday,13:45,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+210,20241295,2024,4,Monday,14:23,Single,1,no,no,no,50,Arterial Road,no,yes,Major Cities of Australia,Weekday,Day,Crash
+211,20241136,2024,4,Monday,16:15,Multiple,2,no,no,no,110,National or State Highway,no,yes,Outer Regional Australia,Weekday,Day,Crash
+212,20241281,2024,4,Monday,16:15,Single,1,no,yes,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+213,20241076,2024,4,Monday,19:00,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+214,20241058,2024,4,Saturday,2:30,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+215,20241019,2024,4,Saturday,7:30,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+216,20241275,2024,4,Saturday,8:00,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekend,Day,Crash
+217,20241065,2024,4,Saturday,9:15,Single,1,yes,no,no,110,National or State Highway,no,no,Outer Regional Australia,Weekend,Day,Crash
+218,20241305,2024,4,Saturday,19:30,Single,1,no,no,no,60,Arterial Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+219,20241231,2024,4,Sunday,0:01,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+220,20241145,2024,4,Sunday,0:17,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+221,20241228,2024,4,Sunday,2:00,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+222,20241085,2024,4,Sunday,9:45,Single,1,no,no,no,100,Local Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+223,20241212,2024,4,Sunday,21:50,Single,1,no,no,no,50,Local Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+224,20241241,2024,4,Sunday,22:00,Single,1,no,no,no,50,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+225,20241171,2024,4,Thursday,2:09,Single,1,no,no,no,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Night,Crash
+226,20241183,2024,4,Thursday,11:12,Single,1,no,yes,no,80,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+227,20241025,2024,4,Thursday,12:04,Single,1,no,yes,yes,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+228,20241079,2024,4,Thursday,12:40,Multiple,2,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+229,20241148,2024,4,Thursday,15:30,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+230,20241262,2024,4,Thursday,18:56,Single,1,no,no,no,60,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+231,20241172,2024,4,Tuesday,4:07,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+232,20241014,2024,4,Tuesday,10:40,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+233,20241206,2024,4,Tuesday,15:00,Single,1,no,no,yes,60,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+234,20241130,2024,4,Tuesday,19:00,Single,1,yes,no,no,80,Busway,no,no,Major Cities of Australia,Weekday,Night,Crash
+235,20241178,2024,4,Tuesday,21:20,Multiple,2,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+236,20241043,2024,4,Wednesday,12:15,Single,1,no,no,yes,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+237,20241154,2024,3,Friday,5:00,Single,1,no,no,no,60,Local Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+238,20241146,2024,3,Friday,5:00,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+239,20241217,2024,3,Friday,11:24,Single,1,no,no,no,110,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+240,20241238,2024,3,Friday,14:55,Single,1,no,no,no,100,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+241,20241158,2024,3,Friday,15:58,Single,1,yes,no,no,70,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+242,20241289,2024,3,Friday,19:55,Single,1,no,no,no,100,Sub-arterial Road,no,yes,Remote Australia,Weekend,Night,Crash
+243,20241187,2024,3,Friday,23:07,Single,1,no,no,no,110,National or State Highway,no,no,Major Cities of Australia,Weekend,Night,Crash
+244,20241126,2024,3,Monday,11:00,Single,1,no,yes,no,100,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+245,20241226,2024,3,Saturday,11:13,Single,1,no,no,yes,80,National or State Highway,no,yes,Outer Regional Australia,Weekend,Day,Crash
+246,20241156,2024,3,Saturday,14:10,Single,1,no,no,yes,100,National or State Highway,no,no,Outer Regional Australia,Weekend,Day,Crash
+247,20241232,2024,3,Saturday,23:40,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekend,Night,Crash
+248,20241061,2024,3,Sunday,4:00,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+249,20241182,2024,3,Sunday,11:05,Single,1,no,no,no,80,Arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+250,20241044,2024,3,Sunday,12:08,Single,1,no,no,no,110,National or State Highway,no,no,Outer Regional Australia,Weekend,Day,Crash
+251,20241207,2024,3,Sunday,22:00,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekend,Night,Crash
+252,20241007,2024,3,Thursday,12:25,Single,1,no,no,no,80,Local Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+253,20241227,2024,3,Thursday,14:10,Single,1,no,no,no,50,Arterial Road,no,yes,Major Cities of Australia,Weekday,Day,Crash
+254,20241093,2024,3,Thursday,20:50,Single,1,no,no,no,80,Local Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+255,20241276,2024,3,Thursday,23:10,Single,1,no,no,no,60,Arterial Road,no,yes,Major Cities of Australia,Weekday,Night,Crash
+256,20241157,2024,3,Tuesday,7:10,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+257,20241075,2024,3,Tuesday,19:00,Single,1,no,no,yes,110,National or State Highway,no,no,Outer Regional Australia,Weekday,Night,Crash
+258,20241279,2024,3,Wednesday,2:04,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+259,20241069,2024,2,Friday,6:15,Single,1,no,no,no,70,Collector Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+260,20241122,2024,2,Friday,9:14,Single,1,no,no,no,110,National or State Highway,no,no,Major Cities of Australia,Weekday,Day,Crash
+261,20241141,2024,2,Friday,13:30,Single,1,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+262,20241244,2024,2,Friday,13:45,Single,1,no,yes,no,50,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+263,20241114,2024,2,Monday,5:30,Single,1,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+264,20241112,2024,2,Monday,16:25,Single,1,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+265,20241185,2024,2,Saturday,1:30,Multiple,4,no,no,no,80,Local Road,no,no,Inner Regional Australia,Weekend,Night,Crash
+266,20241123,2024,2,Saturday,12:50,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekend,Day,Crash
+267,20241213,2024,2,Saturday,18:45,Multiple,3,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekend,Night,Crash
+268,20241121,2024,2,Sunday,6:00,Single,1,no,no,yes,100,National or State Highway,no,no,Inner Regional Australia,Weekend,Day,Crash
+269,20241038,2024,2,Sunday,10:00,Single,1,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekend,Day,Crash
+270,20241297,2024,2,Sunday,18:30,Single,1,no,no,no,50,Access road,no,no,Outer Regional Australia,Weekend,Night,Crash
+271,20241270,2024,2,Thursday,17:40,Single,1,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+272,20241225,2024,2,Thursday,17:48,Single,1,no,no,yes,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+273,20241084,2024,2,Thursday,20:15,Single,1,no,no,yes,110,National or State Highway,no,no,Inner Regional Australia,Weekday,Night,Crash
+274,20241129,2024,2,Tuesday,10:45,Single,1,no,yes,yes,100,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+275,20241095,2024,2,Tuesday,19:40,Single,1,no,no,no,100,Local Road,no,no,Outer Regional Australia,Weekday,Night,Crash
+276,20241090,2024,2,Wednesday,11:30,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+277,20241113,2024,2,Wednesday,11:45,Single,1,no,no,no,100,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+278,20241064,2024,2,Wednesday,13:42,Single,1,no,no,yes,100,National or State Highway,no,no,Outer Regional Australia,Weekday,Day,Crash
+279,20241049,2024,2,Wednesday,20:06,Single,1,no,no,no,50,Local Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+280,20241242,2024,1,Friday,6:05,Single,1,no,yes,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+281,20241144,2024,1,Friday,9:55,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+282,20241001,2024,1,Friday,15:20,Single,1,no,no,yes,80,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+283,20241018,2024,1,Friday,16:30,Single,1,no,no,no,70,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+284,20241105,2024,1,Friday,17:15,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+285,20241282,2024,1,Friday,17:45,Single,1,no,no,no,50,Local Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+286,20241192,2024,1,Monday,0:15,Single,1,no,no,no,80,Sub-arterial Road,no,no,Major Cities of Australia,Weekend,Night,Crash
+287,20241026,2024,1,Monday,8:20,Single,1,no,no,no,80,Arterial Road,yes,no,Inner Regional Australia,Weekday,Day,Crash
+288,20241067,2024,1,Monday,14:50,Single,1,no,no,no,50,Arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+289,20241191,2024,1,Monday,17:10,Multiple,2,no,no,yes,110,National or State Highway,no,no,Remote Australia,Weekday,Day,Crash
+290,20241117,2024,1,Monday,21:40,Multiple,2,no,no,no,80,Arterial Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+291,20241012,2024,1,Saturday,2:00,Single,1,no,no,no,100,National or State Highway,no,no,Inner Regional Australia,Weekend,Night,Crash
+292,20241214,2024,1,Sunday,22:00,Single,1,no,yes,no,100,National or State Highway,no,no,Major Cities of Australia,Weekend,Night,Crash
+293,20241272,2024,1,Thursday,0:10,Single,1,no,yes,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+294,20241104,2024,1,Thursday,5:45,Single,1,no,no,no,50,Local Road,no,no,Major Cities of Australia,Weekday,Night,Crash
+295,20241023,2024,1,Thursday,11:21,Multiple,2,no,no,no,100,Arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+296,20241280,2024,1,Thursday,17:25,Single,1,no,no,yes,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+297,20241193,2024,1,Tuesday,7:00,Single,1,no,no,yes,100,National or State Highway,no,no,Inner Regional Australia,Weekday,Day,Crash
+298,20241239,2024,1,Tuesday,12:20,Single,1,no,no,no,100,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Day,Crash
+299,20241033,2024,1,Wednesday,4:30,Single,1,no,no,no,80,Sub-arterial Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+300,20241288,2024,1,Wednesday,5:00,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekday,Night,Crash
+301,20241164,2024,1,Wednesday,8:10,Single,1,no,no,no,100,Sub-arterial Road,no,no,Outer Regional Australia,Weekday,Day,Crash
+302,20241099,2024,1,Wednesday,12:00,Single,1,no,no,no,50,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+303,20241015,2024,1,Wednesday,14:44,Single,1,no,no,no,110,National or State Highway,yes,no,Outer Regional Australia,Weekday,Day,Crash
+304,20241184,2024,1,Wednesday,17:30,Single,1,no,no,no,50,Arterial Road,no,no,Major Cities of Australia,Weekday,Day,Crash
+305,20241284,2024,1,Wednesday,20:12,Single,1,no,no,no,50,Collector Road,no,no,Inner Regional Australia,Weekday,Night,Crash
+306,20241008,2024,1,Wednesday,20:55,Single,1,no,no,no,70,National or State Highway,no,no,Major Cities of Australia,Weekday,Night,Crash
