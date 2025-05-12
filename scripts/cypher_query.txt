@@ -85,6 +85,18 @@ RETURN lga1.name AS StartLGA,
 ORDER BY StartLGA ASC, EndLGA ASC
 LIMIT 3;
 
+// --f2 cleaner query version
+
+MATCH path = (lga1:LGA)-[*3]-(lga2:LGA)      
+WHERE id(lga1) < id(lga2)                   
+  AND lga1 <> lga2
+WITH lga1, lga2, path
+ORDER BY lga1.name, lga2.name
+LIMIT 3
+RETURN lga1.name AS StartLGA,
+       lga2.name AS EndLGA,
+       path;
+
 // --g. Weekday Pedestrian Crashes, Bus/HeavyRigid Involved, Specific Speed Zones
 
 MATCH (p:Person {roadUser: 'Pedestrian'})-[:WAS_INVOLVED_IN]->(c:Crash)
